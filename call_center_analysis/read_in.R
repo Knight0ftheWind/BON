@@ -1,4 +1,4 @@
-# read_in
+# read_in.R
 
 # This script is for reading in the data to be accessible as an R dataset
 library(readr)
