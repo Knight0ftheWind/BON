@@ -1,0 +1,1239 @@
+order,weekday,time_of_day,hour,active_agents,on_calls,ready_for_calls,not_ready,calls_in_queue,busiest_section,month,day,oncalls+ready:not_ready,avg_ratio,ready:not_ready
+1,Monday,8:05:00 AM,8,94,31,37,26,0,Customer Care,1,15,2.62,2.62,1.42
+2,Monday,9:02:00 AM,9,118,68,19,31,0,Customer Care,1,15,2.81,2.71,0.61
+3,Monday,10:11:00 AM,10,123,42,34,47,0,Customer Care,1,15,1.62,2.35,0.72
+4,Monday,11:01:00 AM,11,124,55,26,43,2,Customer Care,1,15,1.88,2.23,0.60
+5,Monday,12:07:00 PM,12,129,47,32,50,0,Customer Care,1,15,1.58,2.10,0.64
+6,Monday,2:05:00 PM,14,121,52,39,30,0,Customer Care,1,15,3.03,2.26,1.30
+7,Monday,3:44:00 PM,15,87,26,38,23,0,Customer Care/New Sales,1,15,2.78,2.33,1.65
+8,Tuesday,8:08:00 AM,8,115,32,53,30,1,Customer Care,1,16,2.83,2.39,1.77
+9,Tuesday,9:02:00 AM,9,131,58,49,24,0,Customer Care,1,16,4.46,2.62,2.04
+10,Tuesday,10:04:00 AM,10,133,34,38,61,0,Customer Care,1,16,1.18,2.48,0.62
+11,Tuesday,12:40:00 PM,12,140,46,24,70,2,Customer Care,1,16,1.00,2.34,0.34
+12,Tuesday,1:33:00 PM,13,135,44,51,40,4,Customer Care,1,16,2.38,2.35,1.28
+13,Tuesday,2:17:00 PM,14,141,61,29,51,0,Customer Care,1,16,1.76,2.30,0.57
+14,Tuesday,3:04:00 PM,15,115,35,24,56,3,PC Phone Support,1,16,1.05,2.21,0.43
+15,Tuesday,4:11:00 PM,16,80,33,22,25,0,Customer Care,1,16,2.20,2.21,0.88
+16,Wednesday,7:56:00 AM,7,80,44,20,16,0,Customer Care/New Sales,1,17,4.00,2.32,1.25
+17,Wednesday,8:30:00 AM,8,112,44,50,18,0,PC Phone Support,1,17,5.22,2.49,2.78
+18,Wednesday,10:03:00 AM,10,128,61,27,40,0,Customer Care,1,17,2.20,2.48,0.68
+19,Wednesday,11:02:00 AM,11,137,49,33,55,0,Customer Care,1,17,1.49,2.43,0.60
+20,Wednesday,12:07:00 PM,12,140,45,43,52,0,PC Phone Support,1,17,1.69,2.39,0.83
+21,Wednesday,1:02:00 PM,13,135,43,42,50,0,Customer Care,1,17,1.70,2.36,0.84
+22,Wednesday,2:41:00 PM,14,117,41,44,32,3,Customer Care/PC Phone Support,1,17,2.66,2.37,1.38
+23,Wednesday,4:13:00 PM,16,74,19,32,23,0,Customer Care,1,17,2.22,2.36,1.39
+24,Wednesday,4:43:00 PM,16,69,28,20,21,0,New Sales,1,17,2.29,2.36,0.95
+25,Thursday,8:36:00 AM,8,114,38,54,22,2,PC Phone Support,1,18,4.18,2.43,2.45
+26,Thursday,9:05:00 AM,9,120,44,40,36,0,PC Phone Support,1,18,2.33,2.43,1.11
+27,Thursday,11:44:00 AM,11,141,66,28,47,1,PC Phone Support,1,18,2.00,2.41,0.60
+28,Thursday,12:04:00 PM,12,136,67,30,39,0,Customer Care,1,18,2.49,2.42,0.77
+29,Thursday,2:52:00 PM,14,114,52,37,25,3,PC Phone Support,1,18,3.56,2.46,1.48
+30,Thursday,3:38:00 PM,15,85,34,24,27,0,New Sales,1,18,2.15,2.45,0.89
+31,Thursday,4:28:00 PM,16,65,27,14,24,0,New Sales,1,18,1.71,2.42,0.58
+32,Friday,7:58:00 AM,7,86,39,34,13,0,Customer Care,1,19,5.62,2.52,2.62
+33,Friday,8:41:00 AM,8,114,47,40,27,7,PC Phone Support,1,19,3.22,2.54,1.48
+34,Friday,9:11:00 AM,9,118,55,35,28,6,Customer Care,1,19,3.21,2.56,1.25
+35,Friday,10:39:00 AM,10,118,49,23,46,3,PC Phone Support,1,19,1.57,2.53,0.50
+36,Friday,1:36:00 PM,13,115,54,27,34,0,Customer Care,1,19,2.38,2.53,0.79
+37,Friday,2:38:00 PM,14,93,35,12,46,1,Customer Care,1,19,1.02,2.49,0.26
+38,Friday,3:35:00 PM,15,73,37,14,22,0,PC Phone Support,1,19,2.32,2.48,0.64
+39,Friday,4:24:00 PM,16,48,16,11,21,3,PC Phone Support,1,19,1.29,2.45,0.52
+40,Monday,8:36:00 AM,8,111,49,28,34,0,Customer Care,1,22,2.26,2.45,0.82
+41,Monday,9:10:00 AM,9,111,58,25,28,0,Customer Care,1,22,2.96,2.46,0.89
+42,Monday,10:09:00 AM,10,116,63,10,43,0,Customer Care,1,22,1.70,2.44,0.23
+43,Monday,11:02:00 AM,11,119,69,11,39,0,Customer Care,1,22,2.05,2.43,0.28
+44,Monday,12:00:00 PM,12,132,65,20,47,0,PC Phone Support,1,22,1.81,2.42,0.43
+45,Monday,1:15:00 PM,13,123,58,24,41,0,Customer Care,1,22,2.00,2.41,0.59
+46,Monday,2:21:00 PM,14,116,58,33,25,2,Customer Care/PC Phone Support,1,22,3.64,2.44,1.32
+47,Monday,3:23:00 PM,15,95,48,23,24,7,PC Phone Support,1,22,2.96,2.45,0.96
+48,Monday,4:05:00 PM,16,81,35,20,26,0,Customer Care,1,22,2.12,2.44,0.77
+49,Tuesday,7:16:00 AM,7,71,27,30,14,0,PC Phone Support,1,23,4.07,2.47,2.14
+50,Tuesday,8:04:00 AM,8,102,45,19,38,1,Customer Care,1,23,1.68,2.46,0.50
+51,Tuesday,9:43:00 AM,9,123,66,28,29,0,Customer Care,1,23,3.24,2.47,0.97
+52,Tuesday,10:33:00 AM,10,132,54,21,57,0,PC Phone Support,1,23,1.32,2.45,0.37
+53,Tuesday,11:04:00 AM,11,135,45,31,59,1,PC Phone Support,1,23,1.29,2.43,0.53
+54,Tuesday,12:24:00 PM,12,131,46,31,54,3,PC Phone Support,1,23,1.43,2.41,0.57
+55,Tuesday,1:56:00 PM,13,136,48,46,42,0,Customer Care/PC Phone Support,1,23,2.24,2.41,1.10
+56,Tuesday,2:25:00 PM,14,134,44,31,59,0,Customer Care,1,23,1.27,2.39,0.53
+57,Tuesday,4:03:00 PM,16,80,40,13,27,0,New Sales,1,23,1.96,2.38,0.48
+58,Wednesday,8:00:00 AM,8,101,39,32,30,2,PC Phone Support,1,24,2.37,2.38,1.07
+59,Wednesday,9:23:00 AM,9,122,57,36,29,6,Customer Care/PC Phone Support,1,24,3.21,2.39,1.24
+60,Wednesday,10:04:00 AM,10,126,48,38,40,0,Customer Care,1,24,2.15,2.39,0.95
+61,Wednesday,11:16:00 AM,11,136,55,31,50,0,Customer Care,1,24,1.72,2.38,0.62
+62,Wednesday,12:01:00 PM,12,140,51,34,55,0,Customer Care,1,24,1.55,2.37,0.62
+63,Wednesday,1:08:00 PM,13,133,42,47,44,0,Customer Care,1,24,2.02,2.36,1.07
+64,Wednesday,2:04:00 PM,14,134,57,32,45,4,Customer Care/PC Phone Support,1,24,1.98,2.35,0.71
+65,Wednesday,3:13:00 PM,15,103,40,27,36,1,PC Phone Support,1,24,1.86,2.35,0.75
+66,Wednesday,4:11:00 PM,16,78,41,12,25,1,PC Phone Support,1,24,2.12,2.34,0.48
+67,Thursday,8:09:00 AM,8,103,42,35,26,0,Customer Care/PC Phone Support,1,25,2.96,2.35,1.35
+68,Thursday,9:39:00 AM,9,129,67,24,38,2,PC Phone Support,1,25,2.39,2.35,0.63
+69,Thursday,10:16:00 AM,10,142,47,49,46,0,Customer Care,1,25,2.09,2.35,1.07
+70,Thursday,11:55:00 AM,11,148,66,19,63,0,Customer Care,1,25,1.35,2.34,0.30
+71,Thursday,1:29:00 PM,13,138,37,54,47,0,New Sales,1,25,1.94,2.33,1.15
+72,Thursday,1:54:00 PM,13,139,50,52,37,0,PC Phone Support,1,25,2.76,2.34,1.41
+73,Thursday,2:13:00 PM,14,131,38,48,45,0,Customer Care,1,25,1.91,2.33,1.07
+74,Thursday,2:25:00 PM,14,132,73,21,38,0,Customer Care,1,25,2.47,2.33,0.55
+75,Thursday,2:53:00 PM,14,125,57,26,42,1,PC Phone Support,1,25,1.98,2.33,0.62
+76,Thursday,3:08:00 PM,15,114,52,29,33,0,PC Phone Support,1,25,2.45,2.33,0.88
+77,Thursday,3:53:00 PM,15,92,42,19,31,1,New Sales,1,25,1.97,2.32,0.61
+78,Thursday,4:03:00 PM,16,88,34,21,33,0,New Sales,1,25,1.67,2.32,0.64
+79,Friday,12:35:00 PM,12,121,56,17,48,4,Customer Care,1,26,1.52,2.31,0.35
+80,Friday,1:08:00 PM,13,117,55,22,40,0,Customer Care,1,26,1.93,2.30,0.55
+81,Friday,1:25:00 PM,13,115,53,31,31,1,PC Phone Support,1,26,2.71,2.31,1.00
+82,Friday,1:51:00 PM,13,114,65,16,33,3,PC Phone Support,1,26,2.45,2.31,0.48
+83,Friday,2:40:00 PM,14,98,47,16,35,0,Customer Care,1,26,1.80,2.30,0.46
+84,Friday,3:02:00 PM,15,96,28,38,30,0,New Sales,1,26,2.20,2.30,1.27
+85,Monday,3:26:00 PM,15,117,60,23,34,0,Customer Care,1,29,2.44,2.30,0.68
+86,Monday,3:48:00 PM,15,109,50,27,32,2,Customer Care,1,29,2.41,2.30,0.84
+87,Monday,4:20:00 PM,16,88,44,19,25,14,Customer Care/PC Phone Support/New Sales,1,29,2.52,2.31,0.76
+88,Monday,4:46:00 PM,16,74,32,13,29,5,Customer Care,1,29,1.55,2.30,0.45
+89,Monday,5:02:00 PM,17,65,32,8,25,8,New Sales,1,29,1.60,2.29,0.32
+90,Tuesday,7:56:00 AM,7,110,70,19,21,5,New Sales,1,30,4.24,2.31,0.90
+91,Tuesday,8:21:00 AM,8,133,63,39,31,0,New Sales/PC Phone Support,1,30,3.29,2.32,1.26
+92,Tuesday,9:00:00 AM,9,145,61,57,27,0,Customer Care,1,30,4.37,2.34,2.11
+93,Tuesday,9:31:00 AM,9,145,58,57,30,0,Customer Care/New Sales,1,30,3.83,2.36,1.90
+94,Tuesday,9:46:00 AM,9,148,77,27,44,2,PC Phone Support,1,30,2.36,2.36,0.61
+95,Tuesday,10:30:00 AM,10,153,78,21,54,2,Customer Care/New Sales,1,30,1.83,2.35,0.39
+96,Tuesday,10:53:00 AM,10,149,81,31,37,2,Customer Care,1,30,3.03,2.36,0.84
+97,Tuesday,11:16:00 AM,11,156,69,37,50,2,Customer Care,1,30,2.12,2.36,0.74
+98,Tuesday,11:47:00 AM,11,156,53,40,63,1,Customer Care,1,30,1.48,2.35,0.63
+99,Tuesday,12:09:00 PM,12,164,76,34,54,5,New Sales,1,30,2.04,2.35,0.63
+100,Tuesday,12:29:00 PM,12,160,78,9,73,20,PC Phone Support,1,30,1.19,2.34,0.12
+101,Tuesday,1:43:00 PM,13,163,76,47,40,0,New Sales,1,30,3.08,2.34,1.18
+102,Tuesday,2:12:00 PM,14,161,65,52,44,0,New Sales/PC Phone Support,1,30,2.66,2.35,1.18
+103,Tuesday,2:49:00 PM,14,157,68,16,73,7,New Sales,1,30,1.15,2.33,0.22
+104,Tuesday,3:11:00 PM,15,147,52,32,63,13,New Sales,1,30,1.33,2.32,0.51
+105,Tuesday,3:44:00 PM,15,129,59,31,39,1,New Sales,1,30,2.31,2.32,0.79
+106,Tuesday,4:00:00 PM,16,126,58,19,49,0,New Sales,1,30,1.57,2.32,0.39
+107,Tuesday,4:15:00 PM,16,98,53,19,26,0,New Sales,1,30,2.77,2.32,0.73
+108,Tuesday,4:39:00 PM,16,87,36,28,23,3,New Sales,1,30,2.78,2.33,1.22
+109,Tuesday,5:32:00 PM,17,52,23,12,17,6,New Sales,1,30,2.06,2.32,0.71
+110,Wednesday,8:11:00 AM,8,135,56,49,30,0,New Sales,1,31,3.50,2.33,1.63
+111,Wednesday,9:17:00 AM,9,157,79,38,40,0,New Sales,1,31,2.93,2.34,0.95
+112,Wednesday,9:49:00 AM,9,168,67,53,48,0,New Sales,1,31,2.50,2.34,1.10
+113,Wednesday,10:27:00 AM,10,174,82,44,48,0,New Sales,1,31,2.63,2.34,0.92
+114,Wednesday,10:44:00 AM,10,178,68,55,55,0,New Sales,1,31,2.24,2.34,1.00
+115,Wednesday,11:16:00 AM,11,181,89,32,60,0,New Sales,1,31,2.02,2.34,0.53
+116,Wednesday,11:46:00 AM,11,187,84,42,61,0,New Sales,1,31,2.07,2.34,0.69
+117,Wednesday,12:01:00 PM,12,193,104,16,73,4,New Sales,1,31,1.64,2.33,0.22
+118,Wednesday,12:21:00 PM,12,191,84,42,65,6,New Sales,1,31,1.94,2.33,0.65
+119,Wednesday,1:10:00 PM,13,183,91,36,56,7,New Sales,1,31,2.27,2.33,0.64
+120,Wednesday,1:31:00 PM,13,184,104,19,61,2,New Sales,1,31,2.02,2.32,0.31
+121,Wednesday,2:13:00 PM,14,170,66,54,50,0,New Sales,1,31,2.40,2.33,1.08
+122,Wednesday,2:28:00 PM,14,171,114,15,42,0,New Sales,1,31,3.07,2.33,0.36
+123,Wednesday,2:44:00 PM,14,163,104,16,43,6,New Sales,1,31,2.79,2.34,0.37
+124,Wednesday,3:30:00 PM,15,141,68,29,44,0,New Sales,1,31,2.20,2.33,0.66
+125,Wednesday,4:11:00 PM,16,111,70,4,37,2,New Sales,1,31,2.00,2.33,0.11
+126,Wednesday,4:33:00 PM,16,106,61,13,32,4,New Sales,1,31,2.31,2.33,0.41
+127,Thursday,8:01:00 AM,8,99,39,38,22,3,Customer Care/PC Phone Support,2,1,3.50,2.34,1.73
+128,Thursday,8:36:00 AM,8,137,65,47,25,0,Customer Care,2,1,4.48,2.36,1.88
+129,Thursday,9:03:00 AM,9,138,57,41,40,0,Customer Care,2,1,2.45,2.36,1.03
+130,Thursday,9:41:00 AM,9,138,59,38,41,15,Customer Care,2,1,2.37,2.36,0.93
+131,Thursday,9:58:00 AM,9,141,68,48,25,0,Customer Care,2,1,4.64,2.38,1.92
+132,Thursday,10:26:00 AM,10,137,64,40,33,0,PC Phone Support,2,1,3.15,2.38,1.21
+133,Thursday,10:52:00 AM,10,140,56,40,44,0,PC Phone Support,2,1,2.18,2.38,0.91
+134,Thursday,11:25:00 AM,11,151,58,48,45,3,Customer Care,2,1,2.36,2.38,1.07
+135,Thursday,11:50:00 AM,11,152,65,51,36,1,Customer Care,2,1,3.22,2.39,1.42
+136,Thursday,12:42:00 PM,12,146,50,34,62,5,Customer Care,2,1,1.35,2.38,0.55
+137,Thursday,1:18:00 PM,13,146,58,49,39,0,Customer Care,2,1,2.74,2.38,1.26
+138,Thursday,1:49:00 PM,13,135,59,40,36,2,PC Phone Support,2,1,2.75,2.38,1.11
+139,Thursday,2:08:00 PM,14,129,59,26,44,2,Customer Care,2,1,1.93,2.38,0.59
+140,Thursday,2:50:00 PM,14,118,72,19,27,0,PC Phone Support,2,1,3.37,2.39,0.70
+141,Thursday,3:08:00 PM,15,103,45,20,38,0,New Sales,2,1,1.71,2.38,0.53
+142,Thursday,3:24:00 PM,15,100,56,19,25,8,New Sales,2,1,3.00,2.39,0.76
+143,Thursday,4:09:00 PM,16,69,30,11,28,10,Customer Care,2,1,1.46,2.38,0.39
+144,Thursday,4:21:00 PM,16,65,17,18,30,12,Customer Care,2,1,1.17,2.37,0.60
+145,Thursday,4:42:00 PM,16,60,31,9,20,16,Customer Care,2,1,2.00,2.37,0.45
+146,Friday,8:03:00 AM,8,89,35,35,19,1,Customer Care,2,2,3.68,2.38,1.84
+147,Friday,8:38:00 AM,8,115,44,45,26,0,Customer Care,2,2,3.42,2.39,1.73
+148,Friday,8:58:00 AM,8,118,56,21,41,4,PC Phone Support,2,2,1.88,2.38,0.51
+149,Friday,9:16:00 AM,9,119,59,4,56,13,PC Phone Support,2,2,1.13,2.37,0.07
+150,Friday,9:32:00 AM,9,119,48,23,48,16,Customer Care,2,2,1.48,2.37,0.48
+151,Friday,9:48:00 AM,9,118,67,9,42,28,Customer Care,2,2,1.81,2.36,0.21
+152,Friday,10:39:00 AM,10,123,55,31,37,2,Customer Care,2,2,2.32,2.36,0.84
+153,Friday,11:00:00 AM,11,126,54,15,57,2,Customer Care,2,2,1.21,2.36,0.26
+154,Friday,11:21:00 AM,11,119,57,13,49,10,Customer Care,2,2,1.43,2.35,0.27
+155,Friday,11:30:00 AM,11,121,49,24,48,3,PC Phone Support,2,2,1.52,2.34,0.50
+156,Friday,11:51:00 AM,11,116,47,26,43,5,PC Phone Support,2,2,1.70,2.34,0.60
+157,Friday,12:02:00 PM,12,115,65,13,37,1,New Sales,2,2,2.11,2.34,0.35
+158,Friday,12:41:00 PM,12,113,43,15,55,2,Customer Care,2,2,1.05,2.33,0.27
+159,Friday,2:18:00 PM,14,99,54,15,30,2,Customer Care,2,2,2.30,2.33,0.50
+160,Friday,2:40:00 PM,14,95,42,20,33,5,PC Phone Support,2,2,1.88,2.33,0.61
+161,Friday,2:59:00 PM,14,89,38,13,38,4,Customer Care,2,2,1.34,2.32,0.34
+162,Friday,3:23:00 PM,15,83,34,9,40,12,Customer Care,2,2,1.08,2.31,0.23
+163,Friday,3:47:00 PM,15,73,28,19,26,3,Customer Care,2,2,1.81,2.31,0.73
+164,Friday,4:10:00 PM,16,58,25,7,26,8,Customer Care,2,2,1.23,2.30,0.27
+165,Monday,8:08:00 AM,8,94,47,16,31,9,Customer Care,2,5,2.03,2.30,0.52
+166,Monday,8:27:00 AM,8,109,51,27,31,8,PC Phone Support,2,5,2.52,2.30,0.87
+167,Monday,8:42:00 AM,8,113,58,23,32,4,PC Phone Support,2,5,2.53,2.31,0.72
+168,Monday,9:05:00 AM,9,113,52,28,33,4,Customer Care,2,5,2.42,2.31,0.85
+169,Monday,9:23:00 AM,9,113,66,13,34,8,Customer Care,2,5,2.32,2.31,0.38
+170,Monday,9:53:00 AM,9,115,51,25,39,7,Customer Care,2,5,1.95,2.30,0.64
+171,Monday,10:04:00 AM,10,114,58,3,53,23,Customer Care,2,5,1.15,2.30,0.06
+172,Monday,10:20:00 AM,10,110,62,11,37,18,PC Phone Support,2,5,1.97,2.30,0.30
+173,Monday,10:37:00 AM,10,115,51,28,36,10,PC Phone Support,2,5,2.19,2.30,0.78
+174,Monday,10:56:00 AM,10,118,55,18,45,8,Customer Care,2,5,1.62,2.29,0.40
+175,Monday,11:13:00 AM,11,120,66,20,34,7,Customer Care,2,5,2.53,2.29,0.59
+176,Monday,11:40:00 AM,11,122,63,24,35,9,Customer Care,2,5,2.49,2.29,0.69
+177,Monday,12:00:00 PM,12,119,56,29,34,0,PC Phone Support,2,5,2.50,2.29,0.85
+178,Monday,12:29:00 PM,12,122,59,10,53,18,Customer Care,2,5,1.30,2.29,0.19
+179,Monday,12:50:00 PM,12,119,55,17,47,13,Customer Care,2,5,1.53,2.28,0.36
+180,Monday,1:11:00 PM,13,118,59,13,46,12,Customer Care,2,5,1.57,2.28,0.28
+181,Monday,1:38:00 PM,13,119,64,29,26,5,PC Phone Support,2,5,3.58,2.29,1.12
+182,Monday,1:55:00 PM,13,120,60,14,46,12,Customer Care,2,5,1.61,2.28,0.30
+183,Monday,2:04:00 PM,14,113,53,24,36,4,Customer Care,2,5,2.14,2.28,0.67
+184,Monday,2:17:00 PM,14,110,57,26,27,2,Customer Care,2,5,3.07,2.29,0.96
+185,Monday,2:39:00 PM,14,104,59,22,23,1,Customer Care,2,5,3.52,2.29,0.96
+186,Monday,2:58:00 PM,14,99,44,22,33,0,Customer Care,2,5,2.00,2.29,0.67
+187,Monday,3:23:00 PM,15,91,51,8,32,8,Customer Care,2,5,1.84,2.29,0.25
+188,Monday,3:54:00 PM,15,84,43,17,24,0,Customer Care,2,5,2.50,2.29,0.71
+189,Monday,4:05:00 PM,16,76,36,16,24,3,PC Phone Support,2,5,2.17,2.29,0.67
+190,Monday,4:22:00 PM,16,67,33,16,18,2,PC Phone Support,2,5,2.72,2.29,0.89
+191,Tuesday,8:07:00 AM,8,106,46,37,23,0,Customer Care,2,6,3.61,2.30,1.61
+192,Tuesday,8:24:00 AM,8,118,45,50,23,0,Customer Care,2,6,4.13,2.31,2.17
+193,Tuesday,8:56:00 AM,8,128,65,37,26,0,Customer Care,2,6,3.92,2.32,1.42
+194,Tuesday,9:53:00 AM,9,130,63,32,35,0,PC Phone Support,2,6,2.71,2.32,0.91
+195,Tuesday,11:40:00 AM,11,139,58,45,36,0,Customer Care,2,6,2.86,2.32,1.25
+196,Tuesday,11:42:00 AM,11,139,43,53,43,0,Customer Care/PC Phone Support,2,6,2.23,2.32,1.23
+197,Tuesday,12:23:00 PM,12,136,37,45,54,0,Customer Care,2,6,1.52,2.32,0.83
+198,Tuesday,1:07:00 PM,13,130,49,19,62,0,Customer Care,2,6,1.10,2.31,0.31
+199,Tuesday,1:23:00 PM,13,131,62,29,40,0,Customer Care,2,6,2.28,2.31,0.73
+200,Tuesday,1:55:00 PM,13,124,61,30,33,0,Customer Care,2,6,2.76,2.31,0.91
+201,Tuesday,2:15:00 PM,14,129,48,27,54,3,PC Phone Support,2,6,1.39,2.31,0.50
+202,Tuesday,3:05:00 PM,15,115,48,23,44,1,PC Phone Support,2,6,1.61,2.31,0.52
+203,Tuesday,3:27:00 PM,15,105,38,28,39,0,Customer Care,2,6,1.69,2.30,0.72
+204,Tuesday,3:43:00 PM,15,93,46,12,35,5,Customer Care,2,6,1.66,2.30,0.34
+205,Tuesday,3:59:00 PM,15,91,46,12,33,8,Customer Care,2,6,1.76,2.30,0.36
+206,Tuesday,4:10:00 PM,16,80,31,24,25,11,Customer Care,2,6,2.20,2.30,0.96
+207,Tuesday,4:32:00 PM,16,73,29,23,21,7,New Sales,2,6,2.48,2.30,1.10
+208,Wednesday,8:00:00 AM,8,94,42,30,22,0,Customer Care,2,7,3.27,2.30,1.36
+209,Wednesday,8:27:00 AM,8,116,45,41,30,1,Customer Care,2,7,2.87,2.31,1.37
+210,Wednesday,8:57:00 AM,8,121,57,32,32,0,Customer Care,2,7,2.78,2.31,1.00
+211,Wednesday,9:07:00 AM,9,125,47,39,39,0,Customer Care,2,7,2.21,2.31,1.00
+212,Wednesday,9:31:00 AM,9,128,52,37,39,0,Customer Care,2,7,2.28,2.31,0.95
+213,Wednesday,9:54:00 AM,9,129,42,39,48,0,PC Phone Support,2,7,1.69,2.30,0.81
+214,Wednesday,10:12:00 AM,10,126,62,26,38,0,Customer Care,2,7,2.32,2.30,0.68
+215,Wednesday,11:03:00 AM,11,130,48,37,45,0,Customer Care,2,7,1.89,2.30,0.82
+216,Wednesday,11:21:00 AM,11,133,49,40,44,0,PC Phone Support,2,7,2.02,2.30,0.91
+217,Wednesday,11:36:00 AM,11,135,56,41,38,0,Customer Care,2,7,2.55,2.30,1.08
+218,Wednesday,11:48:00 AM,11,134,63,35,36,1,PC Phone Support,2,7,2.72,2.30,0.97
+219,Wednesday,12:37:00 PM,12,129,61,21,47,1,PC Phone Support,2,7,1.74,2.30,0.45
+220,Wednesday,1:28:00 PM,13,130,59,39,32,0,Customer Care,2,7,3.06,2.30,1.22
+221,Wednesday,1:42:00 PM,13,129,37,59,33,0,Customer Care/New Sales,2,7,2.91,2.31,1.79
+222,Wednesday,2:02:00 PM,14,128,65,20,43,0,Customer Care,2,7,1.98,2.31,0.47
+223,Wednesday,2:32:00 PM,14,116,37,50,29,0,PC Phone Support,2,7,3.00,2.31,1.72
+224,Wednesday,2:56:00 PM,14,114,31,51,32,2,PC Phone Support,2,7,2.56,2.31,1.59
+225,Wednesday,3:04:00 PM,15,104,42,26,36,2,PC Phone Support,2,7,1.89,2.31,0.72
+226,Wednesday,3:47:00 PM,15,86,34,23,29,0,Customer Care,2,7,1.97,2.31,0.79
+227,Wednesday,4:04:00 PM,16,81,31,18,32,2,PC Phone Support,2,7,1.53,2.30,0.56
+228,Wednesday,4:25:00 PM,16,72,29,20,23,1,PC Phone Support,2,7,2.13,2.30,0.87
+229,Thursday,8:00:00 AM,8,100,38,35,27,10,PC Phone Support,2,8,2.70,2.30,1.30
+230,Thursday,8:14:00 AM,8,113,48,38,27,4,PC Phone Support,2,8,3.19,2.31,1.41
+231,Thursday,8:32:00 AM,8,116,37,54,25,0,Customer Care,2,8,3.64,2.31,2.16
+232,Thursday,8:54:00 AM,8,116,46,49,21,0,Customer Care,2,8,4.52,2.32,2.33
+233,Thursday,9:08:00 AM,9,125,42,48,35,0,Customer Care,2,8,2.57,2.32,1.37
+234,Thursday,9:44:00 AM,9,125,56,45,24,0,PC Phone Support,2,8,4.21,2.33,1.88
+235,Thursday,10:23:00 AM,10,126,48,38,40,3,PC Phone Support,2,8,2.15,2.33,0.95
+236,Thursday,10:46:00 AM,10,131,39,51,41,2,PC Phone Support,2,8,2.20,2.33,1.24
+237,Thursday,11:06:00 AM,11,133,39,45,49,0,PC Phone Support,2,8,1.71,2.33,0.92
+238,Thursday,11:57:00 AM,11,135,51,40,44,0,PC Phone Support,2,8,2.07,2.33,0.91
+239,Thursday,12:38:00 PM,12,139,56,28,55,2,PC Phone Support,2,8,1.53,2.32,0.51
+240,Thursday,12:51:00 PM,12,139,38,45,56,1,PC Phone Support,2,8,1.48,2.32,0.80
+241,Thursday,1:00:00 PM,13,140,46,33,61,0,PC Phone Support,2,8,1.30,2.32,0.54
+242,Thursday,1:16:00 PM,13,136,55,34,47,0,PC Phone Support,2,8,1.89,2.31,0.72
+243,Thursday,1:44:00 PM,13,123,38,37,48,7,Customer Care,2,8,1.56,2.31,0.77
+244,Thursday,2:44:00 PM,14,105,46,34,25,0,PC Phone Support,2,8,3.20,2.32,1.36
+245,Thursday,2:55:00 PM,14,106,25,55,26,0,New Sales/PC Phone Support,2,8,3.08,2.32,2.12
+246,Thursday,3:05:00 PM,15,94,36,32,26,0,Customer Care,2,8,2.62,2.32,1.23
+247,Thursday,3:55:00 PM,15,80,33,16,31,0,PC Phone Support,2,8,1.58,2.32,0.52
+248,Thursday,4:03:00 PM,16,76,35,11,30,7,New Sales,2,8,1.53,2.31,0.37
+249,Thursday,4:25:00 PM,16,65,29,13,23,7,Customer Care,2,8,1.83,2.31,0.57
+250,Friday,8:04:00 AM,8,94,37,36,21,5,PC Phone Support,2,9,3.48,2.32,1.71
+251,Friday,8:27:00 AM,8,103,45,40,18,1,PC Phone Support,2,9,4.72,2.33,2.22
+252,Friday,8:44:00 AM,8,113,41,42,30,0,Customer Care,2,9,2.77,2.33,1.40
+253,Friday,9:02:00 AM,9,115,50,40,25,0,PC Phone Support,2,9,3.60,2.33,1.60
+254,Friday,9:21:00 AM,9,116,50,31,35,0,Customer Care,2,9,2.31,2.33,0.89
+255,Friday,10:16:00 AM,10,121,42,44,35,0,PC Phone Support,2,9,2.46,2.33,1.26
+256,Friday,10:33:00 AM,10,121,32,50,39,0,Customer Care,2,9,2.10,2.33,1.28
+257,Friday,10:52:00 AM,10,120,50,36,34,0,Customer Care,2,9,2.53,2.33,1.06
+258,Friday,11:11:00 AM,11,120,55,16,49,5,Customer Care/PC Phone Support,2,9,1.45,2.33,0.33
+259,Friday,11:33:00 AM,11,121,45,31,45,9,PC Phone Support,2,9,1.69,2.33,0.69
+260,Friday,11:46:00 AM,11,122,53,25,44,8,PC Phone Support,2,9,1.77,2.32,0.57
+261,Friday,12:09:00 PM,12,119,43,10,66,0,Customer Care,2,9,0.80,2.32,0.15
+262,Friday,12:54:00 PM,12,115,32,39,44,7,PC Phone Support,2,9,1.61,2.32,0.89
+263,Friday,1:20:00 PM,13,115,47,24,44,5,Customer Care/PC Phone Support,2,9,1.61,2.31,0.55
+264,Friday,1:40:00 PM,13,113,52,21,40,2,PC Phone Support,2,9,1.83,2.31,0.53
+265,Friday,2:09:00 PM,14,109,29,15,65,32,PC Phone Support,2,9,0.68,2.31,0.23
+266,Friday,2:24:00 PM,14,107,15,26,66,31,PC Phone Support,2,9,0.62,2.30,0.39
+267,Friday,2:54:00 PM,14,104,22,17,65,23,PC Phone Support,2,9,0.60,2.29,0.26
+268,Friday,3:17:00 PM,15,84,34,12,38,13,PC Phone Support,2,9,1.21,2.29,0.32
+269,Friday,3:32:00 PM,15,76,27,21,28,7,PC Phone Support,2,9,1.71,2.29,0.75
+270,Monday,8:00:00 AM,8,86,30,23,33,26,PC Phone Support,2,12,1.61,2.28,0.70
+271,Monday,8:16:00 AM,8,98,47,28,23,22,PC Phone Support,2,12,3.26,2.29,1.22
+272,Monday,8:33:00 AM,8,108,42,35,31,28,PC Phone Support,2,12,2.48,2.29,1.13
+273,Monday,8:56:00 AM,8,109,45,44,20,25,PC Phone Support,2,12,4.45,2.30,2.20
+274,Monday,9:11:00 AM,9,111,54,31,26,28,PC Phone Support,2,12,3.27,2.30,1.19
+275,Monday,9:56:00 AM,9,114,51,22,41,31,PC Phone Support,2,12,1.78,2.30,0.54
+276,Monday,10:07:00 AM,10,115,44,28,43,25,PC Phone Support,2,12,1.67,2.30,0.65
+277,Monday,11:22:00 AM,11,125,68,19,38,52,PC Phone Support,2,12,2.29,2.30,0.50
+278,Monday,11:59:00 AM,11,128,76,20,32,31,PC Phone Support,2,12,3.00,2.30,0.63
+279,Monday,12:32:00 PM,12,121,47,26,48,23,PC Phone Support,2,12,1.52,2.30,0.54
+280,Monday,12:58:00 PM,12,120,43,30,47,29,PC Phone Support,2,12,1.55,2.29,0.64
+281,Monday,1:08:00 PM,13,121,58,25,38,34,PC Phone Support,2,12,2.18,2.29,0.66
+282,Monday,1:29:00 PM,13,122,62,29,31,30,PC Phone Support,2,12,2.94,2.29,0.94
+283,Monday,2:47:00 PM,14,109,50,29,30,27,PC Phone Support,2,12,2.63,2.30,0.97
+284,Monday,3:54:00 PM,15,92,37,36,19,26,PC Phone Support,2,12,3.84,2.30,1.89
+285,Monday,4:22:00 PM,16,74,37,20,17,16,PC Phone Support,2,12,3.35,2.31,1.18
+286,Monday,4:38:00 PM,16,69,31,14,24,18,PC Phone Support,2,12,1.88,2.30,0.58
+287,Monday,4:59:00 PM,16,66,41,7,18,22,PC Phone Support,2,12,2.67,2.30,0.39
+288,Tuesday,8:10:00 AM,8,110,34,53,23,17,PC Phone Support,2,13,3.78,2.31,2.30
+289,Tuesday,8:23:00 AM,8,114,61,29,24,34,PC Phone Support,2,13,3.75,2.31,1.21
+290,Tuesday,8:46:00 AM,8,127,32,59,36,24,PC Phone Support,2,13,2.53,2.32,1.64
+291,Tuesday,9:17:00 AM,9,137,39,57,41,28,PC Phone Support,2,13,2.34,2.32,1.39
+292,Tuesday,9:41:00 AM,9,136,61,30,45,12,PC Phone Support,2,13,2.02,2.31,0.67
+293,Tuesday,10:06:00 AM,10,138,52,41,45,27,PC Phone Support,2,13,2.07,2.31,0.91
+294,Tuesday,10:38:00 AM,10,140,59,37,44,26,PC Phone Support,2,13,2.18,2.31,0.84
+295,Tuesday,10:49:00 AM,10,142,52,53,37,22,PC Phone Support,2,13,2.84,2.32,1.43
+296,Tuesday,11:07:00 AM,11,143,57,31,55,25,PC Phone Support,2,13,1.60,2.31,0.56
+297,Tuesday,11:59:00 AM,11,145,60,42,43,3,PC Phone Support,2,13,2.37,2.31,0.98
+298,Tuesday,12:22:00 PM,12,139,55,32,52,19,PC Phone Support,2,13,1.67,2.31,0.62
+299,Tuesday,12:43:00 PM,12,134,50,34,50,26,Customer Care,2,13,1.68,2.31,0.68
+300,Tuesday,12:52:00 PM,12,134,41,46,47,23,Customer Care,2,13,1.85,2.31,0.98
+301,Tuesday,1:22:00 PM,13,133,47,39,47,12,PC Phone Support,2,13,1.83,2.31,0.83
+302,Tuesday,2:19:00 PM,14,128,47,33,48,7,PC Phone Support,2,13,1.67,2.30,0.69
+303,Tuesday,2:39:00 PM,14,128,53,21,54,16,Customer Care,2,13,1.37,2.30,0.39
+304,Tuesday,3:00:00 PM,15,125,35,42,48,7,Customer Care,2,13,1.60,2.30,0.88
+305,Tuesday,3:59:00 PM,15,103,41,24,38,3,PC Phone Support,2,13,1.71,2.30,0.63
+306,Tuesday,4:40:00 PM,16,79,35,17,27,5,PC Phone Support,2,13,1.93,2.30,0.63
+307,Wednesday,7:59:00 AM,7,87,33,35,19,10,Customer Care,2,14,3.58,2.30,1.84
+308,Wednesday,8:02:00 AM,8,96,30,36,30,9,PC Phone Support,2,14,2.20,2.30,1.20
+309,Wednesday,8:29:00 AM,8,114,36,56,22,6,Customer Care,2,14,4.18,2.31,2.55
+310,Wednesday,8:44:00 AM,8,123,43,59,21,4,PC Phone Support,2,14,4.86,2.31,2.81
+311,Wednesday,9:00:00 AM,9,127,42,54,31,2,Customer Care,2,14,3.10,2.32,1.74
+312,Wednesday,9:12:00 AM,9,125,31,66,28,11,Customer Care,2,14,3.46,2.32,2.36
+313,Wednesday,9:31:00 AM,9,126,53,33,40,11,PC Phone Support,2,14,2.15,2.32,0.83
+314,Wednesday,9:59:00 AM,9,123,54,38,31,11,Customer Care,2,14,2.97,2.32,1.23
+315,Wednesday,10:03:00 AM,10,122,47,37,38,14,Customer Care,2,14,2.21,2.32,0.97
+316,Wednesday,10:51:00 AM,10,116,47,41,28,9,PC Phone Support,2,14,3.14,2.32,1.46
+317,Wednesday,11:27:00 AM,11,126,44,42,40,8,PC Phone Support,2,14,2.15,2.32,1.05
+318,Wednesday,11:46:00 AM,11,124,47,46,31,8,PC Phone Support,2,14,3.00,2.32,1.48
+319,Wednesday,12:00:00 PM,12,127,54,28,45,3,Customer Care,2,14,1.82,2.32,0.62
+320,Wednesday,12:22:00 PM,12,125,47,33,45,13,PC Phone Support,2,14,1.78,2.32,0.73
+321,Wednesday,1:47:00 PM,13,110,35,54,21,6,PC Phone Support,2,14,4.24,2.33,2.57
+322,Wednesday,2:05:00 PM,14,110,51,32,27,10,Customer Care,2,14,3.07,2.33,1.19
+323,Wednesday,2:36:00 PM,14,104,31,27,46,5,PC Phone Support,2,14,1.26,2.33,0.59
+324,Wednesday,2:57:00 PM,14,104,25,27,52,13,PC Phone Support,2,14,1.00,2.32,0.52
+325,Wednesday,3:00:00 PM,15,108,22,23,63,15,Customer Care/PC Phone Support,2,14,0.71,2.32,0.37
+326,Wednesday,3:20:00 PM,15,90,38,14,38,8,PC Phone Support,2,14,1.37,2.31,0.37
+327,Wednesday,3:51:00 PM,15,77,25,30,22,3,PC Phone Support,2,14,2.50,2.32,1.36
+328,Wednesday,4:19:00 PM,16,65,26,20,19,14,Customer Care/PC Phone Support,2,14,2.42,2.32,1.05
+329,Wednesday,4:36:00 PM,16,65,17,25,23,3,PC Phone Support,2,14,1.83,2.31,1.09
+330,Wednesday,4:48:00 PM,16,65,17,27,21,1,PC Phone Support,2,14,2.10,2.31,1.29
+331,Wednesday,4:58:00 PM,16,65,18,27,20,0,PC Phone Support,2,14,2.25,2.31,1.35
+332,Thursday,8:06:00 AM,8,108,31,51,26,7,Customer Care,2,15,3.15,2.32,1.96
+333,Thursday,8:44:00 AM,8,133,54,58,21,0,Customer Care,2,15,5.33,2.32,2.76
+334,Thursday,8:56:00 AM,8,131,47,57,27,1,PC Phone Support,2,15,3.85,2.33,2.11
+335,Thursday,9:30:00 AM,9,134,39,62,33,0,PC Phone Support,2,15,3.06,2.33,1.88
+336,Thursday,10:02:00 AM,10,131,39,42,50,5,Customer Care,2,15,1.62,2.33,0.84
+337,Thursday,10:32:00 AM,10,139,45,61,33,0,PC Phone Support,2,15,3.21,2.33,1.85
+338,Thursday,10:54:00 AM,10,145,40,71,34,0,Customer Care/PC Phone Support,2,15,3.26,2.33,2.09
+339,Thursday,11:26:00 AM,11,140,52,37,51,0,Customer Care,2,15,1.75,2.33,0.73
+340,Thursday,11:46:00 AM,11,137,57,43,37,0,Customer Care,2,15,2.70,2.33,1.16
+341,Thursday,12:12:00 PM,12,135,39,45,51,4,PC Phone Support,2,15,1.65,2.33,0.88
+342,Thursday,12:36:00 PM,12,136,49,31,56,13,Customer Care,2,15,1.43,2.33,0.55
+343,Thursday,2:08:00 PM,14,129,45,36,48,0,Customer Care,2,15,1.69,2.33,0.75
+344,Thursday,2:50:00 PM,14,123,41,41,41,0,Customer Care,2,15,2.00,2.33,1.00
+345,Thursday,3:40:00 PM,15,93,37,25,31,0,Customer Care/PC Phone Support,2,15,2.00,2.33,0.81
+346,Thursday,4:02:00 PM,16,82,43,15,24,0,New Sales,2,15,2.42,2.33,0.63
+347,Thursday,4:25:00 PM,16,73,26,25,22,4,PC Phone Support,2,15,2.32,2.33,1.14
+348,Friday,8:08:00 AM,8,109,48,41,20,1,PC Phone Support,2,16,4.45,2.33,2.05
+349,Friday,8:28:00 AM,8,120,39,61,20,0,Customer Care,2,16,5.00,2.34,3.05
+350,Friday,8:46:00 AM,8,129,65,35,29,5,Customer Care,2,16,3.45,2.34,1.21
+351,Friday,8:59:00 AM,8,134,48,41,45,0,Customer Care,2,16,1.98,2.34,0.91
+352,Friday,9:06:00 AM,9,130,51,27,52,0,Customer Care,2,16,1.50,2.34,0.52
+353,Friday,9:22:00 AM,9,130,53,31,46,6,PC Phone Support,2,16,1.83,2.34,0.67
+354,Friday,9:41:00 AM,9,133,48,51,34,0,PC Phone Support,2,16,2.91,2.34,1.50
+355,Friday,9:57:00 AM,9,134,54,47,33,0,Customer Care,2,16,3.06,2.34,1.42
+356,Monday,8:18:00 AM,8,116,47,32,37,0,Customer Care,2,19,2.14,2.34,0.86
+357,Monday,8:40:00 AM,8,127,46,55,26,0,PC Phone Support,2,19,3.88,2.35,2.12
+358,Monday,9:06:00 AM,9,131,65,32,34,6,Customer Care,2,19,2.85,2.35,0.94
+359,Monday,9:28:00 AM,9,131,59,35,37,0,Customer Care,2,19,2.54,2.35,0.95
+360,Monday,9:48:00 AM,9,132,71,17,44,0,PC Phone Support,2,19,2.00,2.35,0.39
+361,Monday,10:06:00 AM,10,129,68,15,46,0,Customer Care,2,19,1.80,2.34,0.33
+362,Monday,10:48:00 AM,10,132,66,31,35,5,Customer Care,2,19,2.77,2.35,0.89
+363,Monday,11:15:00 AM,11,135,58,37,40,4,Customer Care,2,19,2.38,2.35,0.93
+364,Monday,11:38:00 AM,11,134,50,47,37,0,Customer Care,2,19,2.62,2.35,1.27
+365,Monday,11:52:00 AM,11,135,49,48,38,0,Customer Care,2,19,2.55,2.35,1.26
+366,Monday,12:17:00 PM,12,134,52,25,57,4,Customer Care,2,19,1.35,2.34,0.44
+367,Monday,12:36:00 PM,12,131,49,33,49,7,PC Phone Support,2,19,1.67,2.34,0.67
+368,Monday,12:55:00 PM,12,131,52,30,49,0,Customer Care,2,19,1.67,2.34,0.61
+369,Monday,1:56:00 PM,13,120,37,60,23,0,Customer Care,2,19,4.22,2.35,2.61
+370,Monday,2:25:00 PM,14,121,39,49,33,0,PC Phone Support,2,19,2.67,2.35,1.48
+371,Monday,2:42:00 PM,14,123,30,57,36,0,PC Phone Support,2,19,2.42,2.35,1.58
+372,Monday,3:07:00 PM,15,115,43,39,33,0,Customer Care/PC Phone Support,2,19,2.48,2.35,1.18
+373,Monday,3:36:00 PM,15,107,42,45,20,0,Customer Care/PC Phone Support,2,19,4.35,2.35,2.25
+374,Monday,3:52:00 PM,15,104,37,50,17,0,Customer Care,2,19,5.12,2.36,2.94
+375,Monday,4:06:00 PM,16,95,45,23,27,2,PC Phone Support,2,19,2.52,2.36,0.85
+376,Tuesday,8:21:00 AM,8,131,47,55,29,0,Customer Care,2,20,3.52,2.36,1.90
+377,Tuesday,9:03:00 AM,9,145,58,64,23,0,PC Phone Support,2,20,5.30,2.37,2.78
+378,Tuesday,9:22:00 AM,9,149,53,72,24,0,PC Phone Support,2,20,5.21,2.38,3.00
+379,Tuesday,9:45:00 AM,9,148,44,69,35,0,Customer Care,2,20,3.23,2.38,1.97
+380,Tuesday,10:28:00 AM,10,149,47,61,41,1,PC Phone Support,2,20,2.63,2.38,1.49
+381,Tuesday,10:52:00 AM,10,157,49,75,33,0,PC Phone Support,2,20,3.76,2.39,2.27
+382,Tuesday,11:02:00 AM,11,159,48,72,39,0,PC Phone Support,2,20,3.08,2.39,1.85
+383,Tuesday,11:35:00 AM,11,159,67,46,46,0,PC Phone Support,2,20,2.46,2.39,1.00
+384,Tuesday,11:54:00 AM,11,155,49,60,46,0,PC Phone Support,2,20,2.37,2.39,1.30
+385,Tuesday,12:00:00 PM,12,159,43,61,55,0,Customer Care,2,20,1.89,2.39,1.11
+386,Tuesday,12:21:00 PM,12,155,46,47,62,0,Customer Care,2,20,1.50,2.38,0.76
+387,Tuesday,12:42:00 PM,12,148,48,57,43,0,Customer Care,2,20,2.44,2.38,1.33
+388,Tuesday,12:56:00 PM,12,148,41,62,45,0,PC Phone Support,2,20,2.29,2.38,1.38
+389,Tuesday,1:40:00 PM,13,143,41,70,32,0,Customer Care/New Sales,2,20,3.47,2.39,2.19
+390,Tuesday,2:17:00 PM,14,144,48,51,45,1,Customer Care,2,20,2.20,2.39,1.13
+391,Tuesday,2:50:00 PM,14,145,27,26,92,26,PC Phone Support,2,20,0.58,2.38,0.28
+392,Tuesday,3:01:00 PM,15,130,51,13,66,19,Customer Care,2,20,0.97,2.38,0.20
+393,Tuesday,3:27:00 PM,15,123,45,43,35,0,Customer Care,2,20,2.51,2.38,1.23
+394,Tuesday,3:45:00 PM,15,113,52,30,31,0,Customer Care/PC Phone Support,2,20,2.65,2.38,0.97
+395,Tuesday,4:01:00 PM,16,106,65,19,22,3,PC Phone Support,2,20,3.82,2.38,0.86
+396,Wednesday,8:07:00 AM,8,134,29,72,33,0,PC Phone Support,2,21,3.06,2.38,2.18
+397,Wednesday,8:33:00 AM,8,144,34,89,21,0,PC Phone Support,2,21,5.86,2.39,4.24
+398,Wednesday,9:55:00 AM,9,156,49,66,41,0,Customer Care,2,21,2.80,2.39,1.61
+399,Wednesday,10:18:00 AM,10,152,41,72,39,0,PC Phone Support,2,21,2.90,2.40,1.85
+400,Wednesday,10:51:00 AM,10,151,59,52,40,0,Customer Care,2,21,2.78,2.40,1.30
+401,Wednesday,10:57:00 AM,10,150,64,44,42,0,PC Phone Support,2,21,2.57,2.40,1.05
+402,Wednesday,11:33:00 AM,11,153,40,54,59,0,PC Phone Support,2,21,1.59,2.39,0.92
+403,Wednesday,11:57:00 AM,11,158,60,50,48,0,PC Phone Support,2,21,2.29,2.39,1.04
+404,Wednesday,12:04:00 PM,12,157,64,28,65,0,Customer Care,2,21,1.42,2.39,0.43
+405,Wednesday,12:28:00 PM,12,159,55,37,67,1,PC Phone Support,2,21,1.37,2.39,0.55
+406,Wednesday,1:30:00 PM,13,147,49,68,30,0,PC Phone Support,2,21,3.90,2.39,2.27
+407,Wednesday,1:54:00 PM,13,147,54,51,42,0,Customer Care,2,21,2.50,2.39,1.21
+408,Wednesday,2:02:00 PM,14,143,38,65,40,0,PC Phone Support,2,21,2.58,2.39,1.63
+409,Wednesday,2:41:00 PM,14,132,63,48,21,0,PC Phone Support,2,21,5.29,2.40,2.29
+410,Wednesday,3:04:00 PM,15,123,44,37,42,0,Customer Care,2,21,1.93,2.40,0.88
+411,Wednesday,3:40:00 PM,15,103,42,23,38,2,Customer Care,2,21,1.71,2.40,0.61
+412,Wednesday,3:57:00 PM,15,103,46,16,41,0,PC Phone Support,2,21,1.51,2.40,0.39
+413,Wednesday,4:13:00 PM,16,88,30,28,30,1,Customer Care,2,21,1.93,2.39,0.93
+414,Wednesday,4:30:00 PM,16,89,33,35,21,0,PC Phone Support,2,21,3.24,2.40,1.67
+415,Thursday,8:04:00 AM,8,127,33,66,28,0,PC Phone Support,2,22,3.54,2.40,2.36
+416,Thursday,8:19:00 AM,8,135,39,76,20,0,Customer Care/New Sales,2,22,5.75,2.41,3.80
+417,Thursday,8:48:00 AM,8,148,53,74,21,0,PC Phone Support,2,22,6.05,2.42,3.52
+418,Thursday,8:59:00 AM,8,149,36,82,31,0,PC Phone Support,2,22,3.81,2.42,2.65
+419,Thursday,9:06:00 AM,9,153,43,73,37,0,PC Phone Support,2,22,3.14,2.42,1.97
+420,Thursday,9:32:00 AM,9,153,54,48,51,0,PC Phone Support,2,22,2.00,2.42,0.94
+421,Thursday,10:02:00 AM,10,149,52,53,44,0,PC Phone Support,2,22,2.39,2.42,1.20
+422,Thursday,10:28:00 AM,10,149,67,43,39,0,PC Phone Support,2,22,2.82,2.42,1.10
+423,Thursday,11:01:00 AM,11,154,53,51,50,0,Customer Care,2,22,2.08,2.42,1.02
+424,Thursday,11:58:00 AM,11,154,54,54,46,0,Customer Care/PC Phone Support,2,22,2.35,2.42,1.17
+425,Thursday,12:31:00 PM,12,154,50,35,69,1,Customer Care,2,22,1.23,2.42,0.51
+426,Thursday,12:52:00 PM,12,153,46,63,44,0,PC Phone Support,2,22,2.48,2.42,1.43
+427,Thursday,1:08:00 PM,13,142,48,52,42,0,PC Phone Support,2,22,2.38,2.42,1.24
+428,Thursday,1:22:00 PM,13,145,43,56,46,0,Customer Care,2,22,2.15,2.42,1.22
+429,Thursday,1:40:00 PM,13,143,54,36,53,0,PC Phone Support,2,22,1.70,2.42,0.68
+430,Thursday,1:59:00 PM,13,142,37,67,38,0,PC Phone Support,2,22,2.74,2.42,1.76
+431,Thursday,2:08:00 PM,14,132,43,53,36,0,Customer Care,2,22,2.67,2.42,1.47
+432,Thursday,2:28:00 PM,14,133,39,57,37,0,Customer Care,2,22,2.59,2.42,1.54
+433,Thursday,2:54:00 PM,14,129,42,56,31,0,PC Phone Support,2,22,3.16,2.42,1.81
+434,Thursday,3:10:00 PM,15,121,26,61,34,0,PC Phone Support,2,22,2.56,2.42,1.79
+435,Thursday,3:28:00 PM,15,114,37,39,38,0,PC Phone Support,2,22,2.00,2.42,1.03
+436,Thursday,3:53:00 PM,15,103,32,51,20,0,PC Phone Support,2,22,4.15,2.42,2.55
+437,Thursday,4:09:00 PM,16,85,25,41,19,1,PC Phone Support,2,22,3.47,2.42,2.16
+438,Thursday,4:33:00 PM,16,72,17,35,20,0,PC Phone Support,2,22,2.60,2.42,1.75
+439,Friday,10:07:00 AM,10,126,53,34,39,0,Customer Care,2,23,2.23,2.42,0.87
+440,Friday,10:30:00 AM,10,125,50,39,36,0,PC Phone Support,2,23,2.47,2.42,1.08
+441,Friday,10:56:00 AM,10,127,62,29,36,5,Customer Care,2,23,2.53,2.42,0.81
+442,Friday,11:34:00 AM,11,134,47,49,38,0,Customer Care,2,23,2.53,2.43,1.29
+443,Friday,12:06:00 PM,12,133,47,32,54,0,PC Phone Support,2,23,1.46,2.42,0.59
+444,Friday,1:05:00 PM,13,115,54,38,23,0,Customer Care,2,23,4.00,2.43,1.65
+445,Friday,2:10:00 PM,14,107,55,23,29,0,PC Phone Support,2,23,2.69,2.43,0.79
+446,Monday,8:10:00 AM,8,117,46,43,28,0,Customer Care,2,26,3.18,2.43,1.54
+447,Monday,8:27:00 AM,8,122,58,34,30,3,Customer Care,2,26,3.07,2.43,1.13
+448,Monday,9:09:00 AM,9,129,68,33,28,5,PC Phone Support,2,26,3.61,2.43,1.18
+449,Monday,9:25:00 AM,9,129,72,28,29,7,PC Phone Support,2,26,3.45,2.44,0.97
+450,Monday,9:50:00 AM,9,126,53,23,50,7,Customer Care,2,26,1.52,2.43,0.46
+451,Monday,10:00:00 AM,10,126,63,12,51,12,Customer Care,2,26,1.47,2.43,0.24
+452,Monday,10:20:00 AM,10,128,71,21,36,5,Customer Care,2,26,2.56,2.43,0.58
+453,Monday,11:00:00 AM,11,135,69,28,38,2,Customer Care,2,26,2.55,2.43,0.74
+454,Monday,11:24:00 AM,11,132,89,11,32,11,Customer Care,2,26,3.13,2.43,0.34
+455,Monday,11:59:00 AM,11,134,60,31,43,5,PC Phone Support,2,26,2.12,2.43,0.72
+456,Monday,12:13:00 PM,12,132,55,22,55,5,Customer Care,2,26,1.40,2.43,0.40
+457,Monday,12:31:00 PM,12,127,47,28,52,0,PC Phone Support,2,26,1.44,2.43,0.54
+458,Monday,12:52:00 PM,12,125,57,19,49,1,PC Phone Support,2,26,1.55,2.43,0.39
+459,Monday,1:00:00 PM,13,126,55,27,44,1,PC Phone Support,2,26,1.86,2.42,0.61
+460,Monday,2:00:00 PM,14,123,47,41,35,0,Customer Care,2,26,2.51,2.42,1.17
+461,Monday,2:39:00 PM,14,119,40,59,20,0,Customer Care/PC Phone Support,2,26,4.95,2.43,2.95
+462,Monday,3:11:00 PM,15,103,37,42,24,0,PC Phone Support,2,26,3.29,2.43,1.75
+463,Monday,3:32:00 PM,15,96,33,47,16,0,Customer Care,2,26,5.00,2.44,2.94
+464,Monday,3:59:00 PM,15,93,48,23,22,0,Customer Care,2,26,3.23,2.44,1.05
+465,Monday,4:18:00 PM,16,75,32,24,19,0,PC Phone Support,2,26,2.95,2.44,1.26
+466,Tuesday,8:03:00 AM,8,118,38,61,19,0,Customer Care/PC Phone Support/New Sales,2,27,5.21,2.45,3.21
+467,Tuesday,8:28:00 AM,8,131,47,66,18,0,PC Phone Support,2,27,6.28,2.45,3.67
+468,Tuesday,10:01:00 AM,10,145,45,62,38,0,PC Phone Support,2,27,2.82,2.46,1.63
+469,Tuesday,10:22:00 AM,10,141,36,63,42,0,Customer Care,2,27,2.36,2.46,1.50
+470,Tuesday,10:59:00 AM,10,152,48,63,41,0,PC Phone Support,2,27,2.71,2.46,1.54
+471,Tuesday,11:15:00 AM,11,151,59,48,44,0,Customer Care,2,27,2.43,2.46,1.09
+472,Tuesday,11:37:00 AM,11,154,58,57,39,0,Customer Care,2,27,2.95,2.46,1.46
+473,Tuesday,12:14:00 PM,12,150,29,72,49,0,PC Phone Support,2,27,2.06,2.46,1.47
+474,Tuesday,12:45:00 PM,12,143,30,74,39,0,Customer Care,2,27,2.67,2.46,1.90
+475,Tuesday,1:05:00 PM,13,143,41,57,45,0,Customer Care,2,27,2.18,2.46,1.27
+476,Tuesday,1:14:00 PM,13,141,50,39,52,0,Customer Care,2,27,1.71,2.45,0.75
+477,Tuesday,1:29:00 PM,13,143,41,64,38,0,Customer Care,2,27,2.76,2.45,1.68
+478,Tuesday,1:46:00 PM,13,141,37,69,35,0,Customer Care,2,27,3.03,2.46,1.97
+479,Tuesday,1:53:00 PM,13,140,45,67,28,0,Customer Care,2,27,4.00,2.46,2.39
+480,Tuesday,2:22:00 PM,14,142,40,61,41,0,Customer Care,2,27,2.46,2.46,1.49
+481,Tuesday,2:52:00 PM,14,136,26,56,54,7,Customer Care,2,27,1.52,2.46,1.04
+482,Tuesday,3:15:00 PM,15,116,31,50,35,0,Customer Care/New Sales,2,27,2.31,2.46,1.43
+483,Tuesday,3:49:00 PM,15,102,38,40,24,0,Customer Care,2,27,3.25,2.46,1.67
+484,Tuesday,4:02:00 PM,16,101,40,28,33,0,Customer Care/PC Phone Support,2,27,2.06,2.46,0.85
+485,Tuesday,4:23:00 PM,16,86,34,33,19,0,Customer Care,2,27,3.53,2.46,1.74
+486,Tuesday,4:36:00 PM,16,77,23,30,24,0,Customer Care/New Sales,2,27,2.21,2.46,1.25
+487,Tuesday,4:55:00 PM,16,71,18,30,23,0,Customer Care,2,27,2.09,2.46,1.30
+488,Wednesday,8:13:00 AM,8,125,35,70,20,0,Customer Care,2,28,5.25,2.46,3.50
+489,Wednesday,8:32:00 AM,8,133,45,71,17,0,Customer Care,2,28,6.82,2.47,4.18
+490,Wednesday,9:00:00 AM,9,141,41,75,25,0,Customer Care,2,28,4.64,2.48,3.00
+491,Wednesday,9:23:00 AM,9,140,54,70,16,0,Customer Care,2,28,7.75,2.49,4.38
+492,Wednesday,9:44:00 AM,9,139,61,49,29,0,Customer Care,2,28,3.79,2.49,1.69
+493,Wednesday,10:02:00 AM,10,144,46,55,43,0,Customer Care,2,28,2.35,2.49,1.28
+494,Wednesday,10:26:00 AM,10,140,40,59,41,0,Customer Care,2,28,2.41,2.49,1.44
+495,Wednesday,10:48:00 AM,10,145,42,69,34,0,Customer Care/PC Phone Support,2,28,3.26,2.49,2.03
+496,Wednesday,11:07:00 AM,11,153,51,50,52,0,Customer Care,2,28,1.94,2.49,0.96
+497,Wednesday,11:44:00 AM,11,150,58,60,32,0,Customer Care/PC Phone Support,2,28,3.69,2.49,1.88
+498,Wednesday,12:05:00 PM,12,151,47,39,65,0,Customer Care,2,28,1.32,2.49,0.60
+499,Wednesday,12:23:00 PM,12,150,47,47,56,0,Customer Care,2,28,1.68,2.49,0.84
+500,Wednesday,12:53:00 PM,12,150,49,45,56,0,Customer Care,2,28,1.68,2.49,0.80
+501,Wednesday,1:23:00 PM,13,149,58,52,39,0,Customer Care,2,28,2.82,2.49,1.33
+502,Wednesday,1:53:00 PM,13,147,48,63,36,0,Customer Care,2,28,3.08,2.49,1.75
+503,Wednesday,2:13:00 PM,14,139,54,55,30,0,Customer Care,2,28,3.63,2.49,1.83
+504,Wednesday,2:34:00 PM,14,137,41,66,30,0,Customer Care,2,28,3.57,2.49,2.20
+505,Wednesday,2:59:00 PM,14,131,35,56,40,0,PC Phone Support,2,28,2.28,2.49,1.40
+506,Wednesday,3:19:00 PM,15,123,37,37,49,0,PC Phone Support,2,28,1.51,2.49,0.76
+507,Wednesday,3:39:00 PM,15,110,23,49,38,0,PC Phone Support,2,28,1.89,2.49,1.29
+508,Thursday,8:00:00 AM,8,115,45,39,31,0,Customer Care,2,29,2.71,2.49,1.26
+509,Thursday,8:21:00 AM,8,133,41,67,25,0,Customer Care,2,29,4.32,2.49,2.68
+510,Thursday,8:42:00 AM,8,137,28,90,19,0,Customer Care,2,29,6.21,2.50,4.74
+511,Thursday,9:15:00 AM,9,138,47,56,35,0,Customer Care,2,29,2.94,2.50,1.60
+512,Thursday,9:51:00 AM,9,138,58,51,29,0,Customer Care,2,29,3.76,2.51,1.76
+513,Thursday,10:46:00 AM,10,139,70,30,39,2,Customer Care,2,29,2.56,2.51,0.77
+514,Thursday,11:06:00 AM,11,140,53,44,43,0,Customer Care,2,29,2.26,2.51,1.02
+515,Thursday,11:38:00 AM,11,143,36,58,49,0,PC Phone Support,2,29,1.92,2.50,1.18
+516,Thursday,12:08:00 PM,12,139,54,36,49,0,Customer Care,2,29,1.84,2.50,0.73
+517,Thursday,12:23:00 PM,12,140,69,21,50,2,Customer Care,2,29,1.80,2.50,0.42
+518,Thursday,12:40:00 PM,12,138,55,33,50,0,Customer Care,2,29,1.76,2.50,0.66
+519,Thursday,12:57:00 PM,12,139,56,33,50,0,Customer Care/New Sales,2,29,1.78,2.50,0.66
+520,Thursday,1:15:00 PM,13,136,54,42,40,0,Customer Care,2,29,2.40,2.50,1.05
+521,Thursday,1:37:00 PM,13,132,40,56,36,0,Customer Care,2,29,2.67,2.50,1.56
+522,Thursday,1:56:00 PM,13,134,50,46,38,0,Customer Care/PC Phone Support,2,29,2.53,2.50,1.21
+523,Thursday,2:15:00 PM,14,131,32,62,37,0,PC Phone Support,2,29,2.54,2.50,1.68
+524,Thursday,2:43:00 PM,14,128,51,52,25,0,Customer Care/PC Phone Support,2,29,4.12,2.50,2.08
+525,Thursday,2:58:00 PM,14,125,41,55,29,0,Customer Care/PC Phone Support,2,29,3.31,2.50,1.90
+526,Thursday,3:23:00 PM,15,118,55,38,25,0,PC Phone Support,2,29,3.72,2.51,1.52
+527,Friday,8:02:00 AM,8,111,44,46,21,0,Customer Care,3,1,4.29,2.51,2.19
+528,Friday,8:36:00 AM,8,124,38,80,6,0,Customer Care,3,1,19.67,2.54,13.33
+529,Friday,9:08:00 AM,9,123,46,27,50,0,Customer Care,3,1,1.46,2.54,0.54
+530,Friday,9:33:00 AM,9,125,49,45,31,0,PC Phone Support,3,1,3.03,2.54,1.45
+531,Friday,10:07:00 AM,10,124,48,38,38,1,Customer Care,3,1,2.26,2.54,1.00
+532,Friday,10:24:00 AM,10,131,49,43,39,0,Customer Care,3,1,2.36,2.54,1.10
+533,Friday,10:42:00 AM,10,137,49,55,33,0,Customer Care,3,1,3.15,2.54,1.67
+534,Friday,10:59:00 AM,10,136,54,43,39,0,Customer Care,3,1,2.49,2.54,1.10
+535,Friday,11:07:00 AM,11,141,38,51,52,0,Customer Care,3,1,1.71,2.54,0.98
+536,Friday,11:44:00 AM,11,141,48,55,38,0,PC Phone Support,3,1,2.71,2.54,1.45
+537,Friday,12:02:00 PM,12,141,50,28,63,3,Customer Care,3,1,1.24,2.54,0.44
+538,Friday,12:25:00 PM,12,134,39,30,65,2,Customer Care,3,1,1.06,2.53,0.46
+539,Friday,12:45:00 PM,12,135,60,24,51,6,Customer Care,3,1,1.65,2.53,0.47
+540,Friday,1:00:00 PM,13,133,42,39,52,1,Customer Care,3,1,1.56,2.53,0.75
+541,Friday,2:17:00 PM,14,118,50,39,29,0,Customer Care,3,1,3.07,2.53,1.34
+542,Friday,2:32:00 PM,14,113,49,41,23,0,Customer Care,3,1,3.91,2.53,1.78
+543,Friday,3:14:00 PM,15,98,47,24,27,4,Customer Care,3,1,2.63,2.53,0.89
+544,Friday,3:29:00 PM,15,90,25,37,28,7,Customer Care,3,1,2.21,2.53,1.32
+545,Monday,8:07:00 AM,8,109,38,32,39,13,Customer Care,3,4,1.79,2.53,0.82
+546,Monday,8:33:00 AM,8,119,61,33,25,6,Customer Care,3,4,3.76,2.53,1.32
+547,Monday,8:47:00 AM,8,128,51,52,25,0,Customer Care,3,4,4.12,2.54,2.08
+548,Monday,9:39:00 AM,9,122,59,14,49,8,PC Phone Support,3,4,1.49,2.54,0.29
+549,Monday,9:55:00 AM,9,120,67,7,46,8,Customer Care,3,4,1.61,2.53,0.15
+550,Monday,10:12:00 AM,10,121,62,27,32,11,Customer Care,3,4,2.78,2.53,0.84
+551,Monday,10:54:00 AM,10,131,56,42,33,0,Customer Care,3,4,2.97,2.54,1.27
+552,Monday,11:33:00 AM,11,128,69,30,29,1,Customer Care,3,4,3.41,2.54,1.03
+553,Monday,11:47:00 AM,11,129,62,34,33,0,Customer Care,3,4,2.91,2.54,1.03
+554,Monday,12:08:00 PM,12,132,45,30,57,8,Customer Care,3,4,1.32,2.54,0.53
+555,Monday,12:26:00 PM,12,130,50,26,54,11,Customer Care,3,4,1.41,2.53,0.48
+556,Monday,1:24:00 PM,13,120,64,21,35,3,Customer Care,3,4,2.43,2.53,0.60
+557,Monday,1:48:00 PM,13,117,64,23,30,1,Customer Care,3,4,2.90,2.53,0.77
+558,Monday,1:59:00 PM,13,114,62,23,29,7,Customer Care,3,4,2.93,2.53,0.79
+559,Monday,2:08:00 PM,14,113,52,18,43,11,Customer Care,3,4,1.63,2.53,0.42
+560,Monday,2:21:00 PM,14,113,57,21,35,10,Customer Care/PC Phone Support,3,4,2.23,2.53,0.60
+561,Monday,3:23:00 PM,15,94,46,28,20,0,PC Phone Support,3,4,3.70,2.53,1.40
+562,Monday,3:55:00 PM,15,88,52,17,19,9,Customer Care,3,4,3.63,2.54,0.89
+563,Monday,4:00:00 PM,16,84,41,15,28,0,Customer Care,3,4,2.00,2.54,0.54
+564,Monday,4:23:00 PM,16,69,36,13,20,9,Customer Care,3,4,2.45,2.54,0.65
+565,Tuesday,8:35:00 AM,8,132,72,27,33,5,Customer Care,3,5,3.00,2.54,0.82
+566,Tuesday,9:05:00 AM,9,133,51,47,35,2,Customer Care,3,5,2.80,2.54,1.34
+567,Tuesday,9:59:00 AM,9,131,45,43,43,3,Customer Care,3,5,2.05,2.54,1.00
+568,Tuesday,10:11:00 AM,10,130,54,21,55,4,Customer Care,3,5,1.36,2.53,0.38
+569,Tuesday,10:40:00 AM,10,138,41,61,36,0,Customer Care,3,5,2.83,2.53,1.69
+570,Tuesday,11:08:00 AM,11,138,43,53,42,0,Customer Care,3,5,2.29,2.53,1.26
+571,Tuesday,11:46:00 AM,11,140,53,49,38,0,Customer Care,3,5,2.68,2.53,1.29
+572,Tuesday,1:32:00 PM,13,136,50,50,36,0,Customer Care,3,5,2.78,2.53,1.39
+573,Tuesday,2:02:00 PM,14,136,76,18,42,6,Customer Care,3,5,2.24,2.53,0.43
+574,Tuesday,3:24:00 PM,15,105,35,30,40,0,PC Phone Support,3,5,1.63,2.53,0.75
+575,Wednesday,8:47:00 AM,8,136,36,79,21,0,Customer Care/PC Phone Support,3,6,5.48,2.54,3.76
+576,Wednesday,9:13:00 AM,9,141,58,49,34,0,Customer Care,3,6,3.15,2.54,1.44
+577,Wednesday,9:31:00 AM,9,137,46,64,27,0,New Sales,3,6,4.07,2.54,2.37
+578,Wednesday,9:57:00 AM,9,139,61,51,27,0,Customer Care,3,6,4.15,2.54,1.89
+579,Wednesday,10:03:00 AM,10,137,50,39,48,0,Customer Care,3,6,1.85,2.54,0.81
+580,Wednesday,10:26:00 AM,10,136,66,29,41,1,Customer Care,3,6,2.32,2.54,0.71
+581,Wednesday,10:56:00 AM,10,142,43,50,49,0,PC Phone Support,3,6,1.90,2.54,1.02
+582,Wednesday,11:28:00 AM,11,144,46,47,51,0,Customer Care,3,6,1.82,2.54,0.92
+583,Wednesday,11:45:00 AM,11,145,54,45,46,5,Customer Care,3,6,2.15,2.54,0.98
+584,Wednesday,12:28:00 PM,12,139,47,37,55,0,Customer Care,3,6,1.53,2.54,0.67
+585,Wednesday,1:04:00 PM,13,132,38,51,43,0,Customer Care,3,6,2.07,2.54,1.19
+586,Wednesday,1:21:00 PM,13,134,49,42,43,0,Customer Care,3,6,2.12,2.54,0.98
+587,Wednesday,1:41:00 PM,13,132,61,40,31,0,Customer Care,3,6,3.26,2.54,1.29
+588,Wednesday,1:59:00 PM,13,131,46,50,35,0,Customer Care,3,6,2.74,2.54,1.43
+589,Wednesday,2:19:00 PM,14,122,48,42,32,0,Customer Care,3,6,2.81,2.54,1.31
+590,Wednesday,3:59:00 PM,15,99,40,15,44,9,New Sales,3,6,1.25,2.54,0.34
+591,Wednesday,4:06:00 PM,16,88,38,15,35,4,Customer Care,3,6,1.51,2.53,0.43
+592,Wednesday,4:26:00 PM,16,82,38,21,23,1,Customer Care,3,6,2.57,2.53,0.91
+593,Thursday,8:00:00 AM,8,109,28,58,23,3,Customer Care,3,7,3.74,2.54,2.52
+594,Thursday,8:15:00 AM,8,122,35,65,22,1,PC Phone Support,3,7,4.55,2.54,2.95
+595,Thursday,8:54:00 AM,8,138,42,68,28,0,Customer Care,3,7,3.93,2.54,2.43
+596,Thursday,9:03:00 AM,9,138,51,58,29,0,Customer Care,3,7,3.76,2.54,2.00
+597,Thursday,9:19:00 AM,9,143,53,56,34,7,PC Phone Support,3,7,3.21,2.55,1.65
+598,Thursday,9:46:00 AM,9,139,64,40,35,7,Customer Care,3,7,2.97,2.55,1.14
+599,Thursday,10:10:00 AM,10,141,71,28,42,5,Customer Care,3,7,2.36,2.55,0.67
+600,Thursday,10:25:00 AM,10,144,51,45,48,0,PC Phone Support,3,7,2.00,2.54,0.94
+601,Thursday,10:42:00 AM,10,151,44,65,42,0,PC Phone Support,3,7,2.60,2.54,1.55
+602,Thursday,11:06:00 AM,11,149,46,43,60,0,Customer Care,3,7,1.48,2.54,0.72
+603,Thursday,11:26:00 AM,11,149,57,52,40,0,PC Phone Support,3,7,2.73,2.54,1.30
+604,Thursday,11:54:00 AM,11,154,54,50,50,0,Customer Care/PC Phone Support,3,7,2.08,2.54,1.00
+605,Thursday,12:24:00 PM,12,143,51,33,59,1,Customer Care,3,7,1.42,2.54,0.56
+606,Thursday,12:38:00 PM,12,143,55,39,49,0,Customer Care,3,7,1.92,2.54,0.80
+607,Thursday,12:54:00 PM,12,143,56,39,48,0,Customer Care,3,7,1.98,2.54,0.81
+608,Thursday,1:38:00 PM,13,138,52,56,30,0,Customer Care,3,7,3.60,2.54,1.87
+609,Thursday,1:51:00 PM,13,136,48,50,38,1,Customer Care/PC Phone Support,3,7,2.58,2.54,1.32
+610,Thursday,2:31:00 PM,14,119,54,40,25,0,Customer Care,3,7,3.76,2.54,1.60
+611,Thursday,3:12:00 PM,15,107,30,34,43,0,Customer Care,3,7,1.49,2.54,0.79
+612,Thursday,3:38:00 PM,15,97,31,41,25,0,Customer Care,3,7,2.88,2.54,1.64
+613,Thursday,3:59:00 PM,15,98,57,19,22,1,PC Phone Support,3,7,3.45,2.54,0.86
+614,Thursday,4:07:00 PM,16,86,34,26,26,0,PC Phone Support,3,7,2.31,2.54,1.00
+615,Thursday,4:25:00 PM,16,82,29,36,17,1,PC Phone Support,3,7,3.82,2.54,2.12
+616,Friday,8:06:00 AM,8,109,29,61,19,0,PC Phone Support,3,8,4.74,2.55,3.21
+617,Friday,8:51:00 AM,8,125,41,67,17,0,Customer Care,3,8,6.35,2.55,3.94
+618,Friday,9:00:00 AM,9,126,43,49,34,0,Customer Care,3,8,2.71,2.55,1.44
+619,Friday,10:13:00 AM,10,121,43,41,37,0,Customer Care,3,8,2.27,2.55,1.11
+620,Friday,10:50:00 AM,10,127,41,58,28,0,Customer Care,3,8,3.54,2.56,2.07
+621,Friday,11:12:00 AM,11,127,49,36,42,4,Customer Care,3,8,2.02,2.55,0.86
+622,Friday,11:51:00 AM,11,126,30,56,40,0,Customer Care,3,8,2.15,2.55,1.40
+623,Friday,12:58:00 PM,12,119,34,38,47,0,Customer Care,3,8,1.53,2.55,0.81
+624,Friday,2:01:00 PM,14,111,47,30,34,0,Customer Care,3,8,2.26,2.55,0.88
+625,Friday,2:33:00 PM,14,99,37,30,32,0,Customer Care/PC Phone Support,3,8,2.09,2.55,0.94
+626,Friday,2:59:00 PM,14,97,47,24,26,0,Customer Care,3,8,2.73,2.55,0.92
+627,Friday,3:14:00 PM,15,87,33,15,39,0,Customer Care,3,8,1.23,2.55,0.38
+628,Friday,3:33:00 PM,15,84,29,35,20,0,New Sales,3,8,3.20,2.55,1.75
+629,Monday,8:04:00 AM,8,92,31,31,30,0,Customer Care,3,11,2.07,2.55,1.03
+630,Monday,8:32:00 AM,8,117,47,41,29,0,Customer Care,3,11,3.03,2.55,1.41
+631,Monday,8:45:00 AM,8,118,48,36,34,0,Customer Care,3,11,2.47,2.55,1.06
+632,Monday,9:01:00 AM,9,123,60,34,29,1,Customer Care,3,11,3.24,2.55,1.17
+633,Monday,9:18:00 AM,9,125,55,48,22,0,Customer Care,3,11,4.68,2.55,2.18
+634,Monday,9:41:00 AM,9,135,56,39,40,0,Customer Care,3,11,2.38,2.55,0.98
+635,Monday,9:58:00 AM,9,138,62,31,45,0,Customer Care,3,11,2.07,2.55,0.69
+636,Monday,10:11:00 AM,10,138,50,50,38,0,Customer Care,3,11,2.63,2.55,1.32
+637,Monday,10:35:00 AM,10,137,51,44,42,0,Customer Care,3,11,2.26,2.55,1.05
+638,Monday,10:53:00 AM,10,135,48,45,42,1,Customer Care,3,11,2.21,2.55,1.07
+639,Monday,11:02:00 AM,11,136,55,43,38,0,Customer Care,3,11,2.58,2.55,1.13
+640,Monday,11:21:00 AM,11,139,63,44,32,0,Customer Care,3,11,3.34,2.55,1.38
+641,Monday,11:45:00 AM,11,141,61,39,41,0,Customer Care,3,11,2.44,2.55,0.95
+642,Monday,12:03:00 PM,12,138,50,39,49,5,Customer Care,3,11,1.82,2.55,0.80
+643,Monday,12:49:00 PM,12,140,58,31,51,0,Customer Care,3,11,1.75,2.55,0.61
+644,Monday,1:05:00 PM,13,144,54,40,50,0,Customer Care,3,11,1.88,2.55,0.80
+645,Monday,1:18:00 PM,13,140,43,51,46,0,Customer Care,3,11,2.04,2.55,1.11
+646,Monday,1:39:00 PM,13,141,54,55,32,0,Customer Care,3,11,3.41,2.55,1.72
+647,Monday,2:03:00 PM,14,132,57,32,43,1,Customer Care,3,11,2.07,2.55,0.74
+648,Monday,2:41:00 PM,14,121,55,34,32,7,Customer Care,3,11,2.78,2.55,1.06
+649,Monday,3:06:00 PM,15,123,41,48,34,0,Customer Care,3,11,2.62,2.55,1.41
+650,Monday,3:30:00 PM,15,119,51,47,21,0,Customer Care,3,11,4.67,2.55,2.24
+651,Monday,3:46:00 PM,15,88,37,34,17,5,Customer Care/PC Phone Support,3,11,4.18,2.56,2.00
+652,Monday,4:14:00 PM,16,63,22,25,16,10,PC Phone Support,3,11,2.94,2.56,1.56
+653,Monday,4:25:00 PM,16,82,37,22,23,11,Customer Care,3,11,2.57,2.56,0.96
+654,Tuesday,8:01:00 AM,8,99,33,40,26,0,Customer Care,3,12,2.81,2.56,1.54
+655,Tuesday,8:36:00 AM,8,127,38,75,14,0,PC Phone Support,3,12,8.07,2.57,5.36
+656,Tuesday,8:54:00 AM,8,135,45,74,16,0,Customer Care,3,12,7.44,2.57,4.63
+657,Tuesday,9:21:00 AM,9,138,49,56,33,0,Customer Care,3,12,3.18,2.57,1.70
+658,Tuesday,9:44:00 AM,9,143,53,59,31,0,Customer Care,3,12,3.61,2.58,1.90
+659,Tuesday,9:57:00 AM,9,144,58,63,23,0,Customer Care,3,12,5.26,2.58,2.74
+660,Tuesday,10:03:00 AM,10,143,53,58,32,0,Customer Care,3,12,3.47,2.58,1.81
+661,Tuesday,10:21:00 AM,10,144,35,82,27,0,Customer Care,3,12,4.33,2.58,3.04
+662,Tuesday,10:39:00 AM,10,144,45,61,38,0,PC Phone Support,3,12,2.79,2.58,1.61
+663,Tuesday,10:55:00 AM,10,147,44,63,40,0,Customer Care,3,12,2.68,2.58,1.58
+664,Tuesday,11:05:00 AM,11,150,44,56,50,0,Customer Care,3,12,2.00,2.58,1.12
+665,Tuesday,11:28:00 AM,11,149,37,71,41,0,Customer Care,3,12,2.63,2.58,1.73
+666,Tuesday,11:50:00 AM,11,154,40,59,55,7,Customer Care,3,12,1.80,2.58,1.07
+667,Tuesday,12:00:00 PM,12,155,37,56,62,0,Customer Care,3,12,1.50,2.58,0.90
+668,Tuesday,12:11:00 PM,12,152,49,45,58,0,Customer Care,3,12,1.62,2.58,0.78
+669,Tuesday,1:03:00 PM,13,146,25,75,46,0,Customer Care/PC Phone Support,3,12,2.17,2.58,1.63
+670,Tuesday,1:17:00 PM,13,140,40,47,53,0,Customer Care,3,12,1.64,2.58,0.89
+671,Tuesday,1:33:00 PM,13,140,41,70,29,0,Customer Care/PC Phone Support,3,12,3.83,2.58,2.41
+672,Tuesday,1:48:00 PM,13,140,56,48,36,0,Customer Care,3,12,2.89,2.58,1.33
+673,Tuesday,1:58:00 PM,13,141,57,43,41,0,Customer Care,3,12,2.44,2.58,1.05
+674,Tuesday,2:15:00 PM,14,142,38,46,58,0,Customer Care,3,12,1.45,2.58,0.79
+675,Tuesday,2:37:00 PM,14,145,22,36,87,10,PC Phone Support,3,12,0.67,2.58,0.41
+676,Tuesday,3:00:00 PM,15,145,24,49,72,19,PC Phone Support,3,12,1.01,2.57,0.68
+677,Tuesday,3:28:00 PM,15,125,27,52,46,3,Customer Care,3,12,1.72,2.57,1.13
+678,Tuesday,3:43:00 PM,15,119,47,47,25,0,Customer Care,3,12,3.76,2.57,1.88
+679,Tuesday,4:04:00 PM,16,101,34,44,23,0,Customer Care,3,12,3.39,2.57,1.91
+680,Monday,8:44:00 AM,8,98,38,45,15,0,Customer Care,3,18,5.53,2.58,3.00
+681,Monday,9:00:00 AM,9,97,56,22,19,0,Customer Care,3,18,4.11,2.58,1.16
+682,Monday,9:22:00 AM,9,98,51,27,20,7,Customer Care,3,18,3.90,2.58,1.35
+683,Monday,9:38:00 AM,9,99,54,17,28,5,Customer Care,3,18,2.54,2.58,0.61
+684,Monday,9:56:00 AM,9,101,39,29,33,0,Customer Care,3,18,2.06,2.58,0.88
+685,Monday,10:00:00 AM,10,105,45,24,36,2,Customer Care,3,18,1.92,2.58,0.67
+686,Monday,10:44:00 AM,10,104,44,35,25,0,PC Phone Support,3,18,3.16,2.58,1.40
+687,Monday,11:00:00 AM,11,106,46,17,43,2,Customer Care,3,18,1.47,2.58,0.40
+688,Monday,11:47:00 AM,11,112,49,34,29,0,Customer Care,3,18,2.86,2.58,1.17
+689,Monday,12:31:00 PM,12,108,45,22,41,8,PC Phone Support,3,18,1.63,2.58,0.54
+690,Monday,12:56:00 PM,12,108,46,27,35,5,Customer Care,3,18,2.09,2.58,0.77
+691,Monday,1:34:00 PM,13,105,42,36,27,0,Customer Care,3,18,2.89,2.58,1.33
+692,Monday,1:58:00 PM,13,100,50,24,26,0,Customer Care,3,18,2.85,2.58,0.92
+693,Monday,2:05:00 PM,14,91,44,20,27,0,PC Phone Support,3,18,2.37,2.58,0.74
+694,Monday,2:24:00 PM,14,92,41,29,22,1,Customer Care,3,18,3.18,2.58,1.32
+695,Monday,2:33:00 PM,14,92,48,26,18,1,Customer Care/PC Phone Support,3,18,4.11,2.58,1.44
+696,Monday,2:45:00 PM,14,93,38,29,26,0,Customer Care,3,18,2.58,2.58,1.12
+697,Monday,2:57:00 PM,14,90,40,29,21,0,Customer Care,3,18,3.29,2.58,1.38
+698,Monday,3:18:00 PM,15,89,41,22,26,4,PC Phone Support,3,18,2.42,2.58,0.85
+699,Monday,3:38:00 PM,15,89,39,31,19,0,Customer Care,3,18,3.68,2.58,1.63
+700,Monday,3:54:00 PM,15,86,29,33,24,0,PC Phone Support,3,18,2.58,2.58,1.38
+701,Monday,4:17:00 PM,16,73,37,14,22,3,New Sales,3,18,2.32,2.58,0.64
+702,Thursday,8:09:00 AM,8,100,16,65,19,0,Customer Care,3,21,4.26,2.59,3.42
+703,Thursday,8:46:00 AM,8,112,39,62,11,0,Customer Care,3,21,9.18,2.60,5.64
+704,Thursday,9:04:00 AM,9,114,37,50,27,0,Customer Care,3,21,3.22,2.60,1.85
+705,Thursday,9:19:00 AM,9,119,38,51,30,1,PC Phone Support,3,21,2.97,2.60,1.70
+706,Thursday,9:46:00 AM,9,124,35,53,36,0,Customer Care,3,21,2.44,2.60,1.47
+707,Thursday,10:07:00 AM,10,129,39,52,38,0,Customer Care,3,21,2.39,2.60,1.37
+708,Thursday,10:36:00 AM,10,131,45,41,45,0,Customer Care,3,21,1.91,2.60,0.91
+709,Thursday,11:02:00 AM,11,129,34,53,42,0,PC Phone Support,3,21,2.07,2.60,1.26
+710,Thursday,11:26:00 AM,11,134,53,47,34,0,Customer Care,3,21,2.94,2.60,1.38
+711,Thursday,12:06:00 PM,12,139,37,53,49,0,PC Phone Support,3,21,1.84,2.59,1.08
+712,Thursday,1:04:00 PM,13,140,58,19,63,0,Customer Care/PC Phone Support,3,21,1.22,2.59,0.30
+713,Thursday,1:49:00 PM,13,132,41,55,36,0,PC Phone Support,3,21,2.67,2.59,1.53
+714,Thursday,1:59:00 PM,13,129,56,44,29,1,PC Phone Support,3,21,3.45,2.59,1.52
+715,Thursday,2:10:00 PM,14,125,49,33,43,0,Customer Care,3,21,1.91,2.59,0.77
+716,Thursday,2:58:00 PM,14,119,57,37,25,0,Customer Care/PC Phone Support,3,21,3.76,2.59,1.48
+717,Thursday,3:05:00 PM,15,112,36,49,27,0,PC Phone Support,3,21,3.15,2.60,1.81
+718,Thursday,3:41:00 PM,15,102,34,48,20,0,PC Phone Support,3,21,4.10,2.60,2.40
+719,Thursday,4:05:00 PM,16,88,21,41,26,0,PC Phone Support,3,21,2.38,2.60,1.58
+720,Thursday,4:19:00 PM,16,85,33,36,16,0,Customer Care/New Sales,3,21,4.31,2.60,2.25
+721,Thursday,4:28:00 PM,16,85,31,35,19,0,PC Phone Support,3,21,3.47,2.60,1.84
+722,Thursday,4:40:00 PM,16,78,29,26,23,1,PC Phone Support,3,21,2.39,2.60,1.13
+723,Thursday,4:51:00 PM,16,75,33,19,23,0,PC Phone Support,3,21,2.26,2.60,0.83
+724,Thursday,4:56:00 PM,16,73,27,24,22,0,PC Phone Support,3,21,2.32,2.60,1.09
+725,Friday,8:03:00 AM,8,96,26,57,13,0,Customer Care,3,22,6.38,2.60,4.38
+726,Friday,8:22:00 AM,8,104,27,68,9,0,Customer Care,3,22,10.56,2.62,7.56
+727,Friday,8:38:00 AM,8,112,42,58,12,0,Customer Care,3,22,8.33,2.62,4.83
+728,Friday,9:15:00 AM,9,128,32,57,39,0,PC Phone Support,3,22,2.28,2.62,1.46
+729,Friday,9:55:00 AM,9,137,40,59,38,0,Customer Care,3,22,2.61,2.62,1.55
+730,Friday,10:18:00 AM,10,136,52,42,42,0,Customer Care/PC Phone Support,3,22,2.24,2.62,1.00
+731,Friday,10:38:00 AM,10,136,25,56,55,0,Customer Care,3,22,1.47,2.62,1.02
+732,Friday,10:57:00 AM,10,137,48,46,43,0,Customer Care,3,22,2.19,2.62,1.07
+733,Friday,11:53:00 AM,11,140,61,44,35,0,Customer Care,3,22,3.00,2.62,1.26
+734,Friday,12:00:00 PM,12,141,45,54,42,0,Customer Care,3,22,2.36,2.62,1.29
+735,Friday,12:43:00 PM,12,139,29,55,55,0,Customer Care,3,22,1.53,2.62,1.00
+736,Friday,12:54:00 PM,12,136,24,57,55,0,Customer Care,3,22,1.47,2.62,1.04
+737,Friday,1:03:00 PM,13,136,30,62,44,0,Customer Care,3,22,2.09,2.62,1.41
+738,Friday,1:29:00 PM,13,141,29,55,57,0,Customer Care,3,22,1.47,2.62,0.96
+739,Friday,1:55:00 PM,13,140,37,59,44,0,PC Phone Support,3,22,2.18,2.61,1.34
+740,Friday,2:05:00 PM,14,125,32,57,36,0,Customer Care/PC Phone Support,3,22,2.47,2.61,1.58
+741,Friday,2:28:00 PM,14,122,27,61,34,0,Customer Care,3,22,2.59,2.61,1.79
+742,Friday,2:48:00 PM,14,119,27,46,46,0,Customer Care,3,22,1.59,2.61,1.00
+743,Friday,3:14:00 PM,15,104,30,39,35,0,New Sales,3,22,1.97,2.61,1.11
+744,Friday,4:02:00 PM,16,88,32,24,32,1,PC Phone Support,3,22,1.75,2.61,0.75
+745,Friday,4:23:00 PM,16,76,26,35,15,1,PC Phone Support,3,22,4.07,2.61,2.33
+746,Friday,4:59:00 PM,16,62,20,25,17,1,Customer Care,3,22,2.65,2.61,1.47
+747,Monday,8:07:00 AM,8,104,51,27,26,0,Customer Care,3,25,3.00,2.61,1.04
+748,Monday,8:21:00 AM,8,108,45,49,14,0,Customer Care,3,25,6.71,2.62,3.50
+749,Monday,8:55:00 AM,8,119,48,54,17,0,Customer Care,3,25,6.00,2.62,3.18
+750,Monday,9:00:00 AM,9,120,40,47,33,1,Customer Care,3,25,2.64,2.62,1.42
+751,Monday,9:27:00 AM,9,121,55,30,36,4,Customer Care,3,25,2.36,2.62,0.83
+752,Monday,9:41:00 AM,9,126,42,34,50,0,Customer Care,3,25,1.52,2.62,0.68
+753,Monday,9:59:00 AM,9,125,57,30,38,1,Customer Care,3,25,2.29,2.62,0.79
+754,Monday,10:18:00 AM,10,128,36,45,47,0,Customer Care,3,25,1.72,2.62,0.96
+755,Monday,10:37:00 AM,10,127,50,44,33,0,Customer Care,3,25,2.85,2.62,1.33
+756,Monday,10:59:00 AM,10,131,46,44,41,0,Customer Care,3,25,2.20,2.62,1.07
+757,Monday,11:28:00 AM,11,126,37,56,33,0,Customer Care,3,25,2.82,2.62,1.70
+758,Monday,11:46:00 AM,11,134,45,52,37,0,Customer Care,3,25,2.62,2.62,1.41
+759,Monday,11:59:00 AM,11,135,51,34,50,0,Customer Care,3,25,1.70,2.62,0.68
+760,Monday,1:01:00 PM,13,131,63,32,36,0,Customer Care,3,25,2.64,2.62,0.89
+761,Monday,1:14:00 PM,13,133,34,56,43,0,Customer Care/PC Phone Support,3,25,2.09,2.62,1.30
+762,Monday,1:38:00 PM,13,135,50,50,35,0,Customer Care,3,25,2.86,2.62,1.43
+763,Monday,1:51:00 PM,13,138,40,59,39,0,Customer Care,3,25,2.54,2.62,1.51
+764,Monday,2:19:00 PM,14,127,34,66,27,0,PC Phone Support,3,25,3.70,2.62,2.44
+765,Monday,2:57:00 PM,14,125,39,65,21,0,Customer Care,3,25,4.95,2.62,3.10
+766,Monday,3:13:00 PM,15,120,31,53,36,1,Customer Care,3,25,2.33,2.62,1.47
+767,Monday,4:14:00 PM,16,94,30,35,29,0,PC Phone Support,3,25,2.24,2.62,1.21
+768,Monday,4:26:00 PM,16,92,26,44,22,0,PC Phone Support,3,25,3.18,2.62,2.00
+769,Tuesday,8:02:00 AM,8,98,16,71,11,0,PC Phone Support,3,26,7.91,2.63,6.45
+770,Tuesday,8:32:00 AM,8,126,50,65,11,0,Customer Care,3,26,10.45,2.64,5.91
+771,Tuesday,9:00:00 AM,9,132,38,64,30,0,Customer Care,3,26,3.40,2.64,2.13
+772,Tuesday,9:25:00 AM,9,143,47,63,33,0,PC Phone Support,3,26,3.33,2.64,1.91
+773,Tuesday,9:49:00 AM,9,147,57,51,39,0,Customer Care,3,26,2.77,2.64,1.31
+774,Tuesday,10:00:00 AM,10,151,25,80,46,0,Customer Care,3,26,2.28,2.64,1.74
+775,Tuesday,10:38:00 AM,10,152,28,68,56,0,Customer Care,3,26,1.71,2.64,1.21
+776,Tuesday,11:07:00 AM,11,151,58,39,54,1,Customer Care,3,26,1.80,2.64,0.72
+777,Tuesday,11:53:00 AM,11,153,44,72,37,0,PC Phone Support,3,26,3.14,2.64,1.95
+778,Tuesday,12:14:00 PM,12,160,49,56,55,0,Customer Care/New Sales,3,26,1.91,2.64,1.02
+779,Tuesday,12:30:00 PM,12,161,45,63,53,0,Customer Care,3,26,2.04,2.64,1.19
+780,Tuesday,12:48:00 PM,12,161,29,70,62,0,PC Phone Support,3,26,1.60,2.64,1.13
+781,Tuesday,1:40:00 PM,13,153,37,75,41,1,Customer Care,3,26,2.73,2.64,1.83
+782,Tuesday,2:11:00 PM,14,149,28,34,87,1,PC Phone Support,3,26,0.71,2.63,0.39
+783,Tuesday,2:30:00 PM,14,145,28,30,87,6,Customer Care,3,26,0.67,2.63,0.34
+784,Tuesday,3:33:00 PM,15,120,32,55,33,0,Customer Care,3,26,2.64,2.63,1.67
+785,Tuesday,4:00:00 PM,16,113,29,49,35,0,PC Phone Support,3,26,2.23,2.63,1.40
+786,Tuesday,4:19:00 PM,16,97,43,29,25,0,PC Phone Support,3,26,2.88,2.63,1.16
+787,Tuesday,4:34:00 PM,16,87,16,50,21,0,PC Phone Support,3,26,3.14,2.63,2.38
+788,Wednesday,8:18:00 AM,8,111,27,75,9,0,PC Phone Support,3,27,11.33,2.64,8.33
+789,Wednesday,10:53:00 AM,10,143,33,76,34,0,Customer Care,3,27,3.21,2.64,2.24
+790,Wednesday,11:07:00 AM,11,143,45,53,45,0,PC Phone Support,3,27,2.18,2.64,1.18
+791,Wednesday,11:59:00 AM,11,142,34,73,35,0,PC Phone Support,3,27,3.06,2.64,2.09
+792,Wednesday,12:34:00 PM,12,138,24,55,59,0,PC Phone Support,3,27,1.34,2.64,0.93
+793,Wednesday,1:07:00 PM,13,140,36,55,49,0,Customer Care,3,27,1.86,2.64,1.12
+794,Wednesday,1:41:00 PM,13,137,47,50,40,0,Customer Care/PC Phone Support,3,27,2.43,2.64,1.25
+795,Wednesday,1:55:00 PM,13,137,49,52,36,0,PC Phone Support,3,27,2.81,2.64,1.44
+796,Wednesday,2:13:00 PM,14,124,31,66,27,0,PC Phone Support,3,27,3.59,2.64,2.44
+797,Wednesday,3:30:00 PM,15,110,41,27,42,0,Customer Care,3,27,1.62,2.64,0.64
+798,Thursday,8:00:00 AM,8,84,27,45,12,0,New Sales,3,28,6.00,2.65,3.75
+799,Thursday,8:25:00 AM,8,103,36,60,7,0,Customer Care,3,28,13.71,2.66,8.57
+800,Thursday,8:41:00 AM,8,108,43,57,8,0,Customer Care,3,28,12.50,2.67,7.13
+801,Thursday,9:10:00 AM,9,121,42,30,49,1,Customer Care,3,28,1.47,2.67,0.61
+802,Thursday,9:25:00 AM,9,125,46,46,33,0,Customer Care,3,28,2.79,2.67,1.39
+803,Thursday,10:02:00 AM,10,134,50,39,45,5,New Sales,3,28,1.98,2.67,0.87
+804,Thursday,11:19:00 AM,11,125,37,40,48,2,PC Phone Support,3,28,1.60,2.67,0.83
+805,Thursday,11:41:00 AM,11,128,38,53,37,0,Customer Care/PC Phone Support,3,28,2.46,2.67,1.43
+806,Thursday,12:01:00 PM,12,134,45,27,62,0,New Sales,3,28,1.16,2.67,0.44
+807,Thursday,12:12:00 PM,12,135,35,31,69,4,Customer Care,3,28,0.96,2.66,0.45
+808,Thursday,12:58:00 PM,12,135,36,41,58,7,PC Phone Support,3,28,1.33,2.66,0.71
+809,Thursday,1:19:00 PM,13,130,38,44,48,7,PC Phone Support,3,28,1.71,2.66,0.92
+810,Thursday,2:47:00 PM,14,118,31,51,36,0,Customer Care,3,28,2.28,2.66,1.42
+811,Thursday,2:58:00 PM,14,118,40,43,35,0,PC Phone Support,3,28,2.37,2.66,1.23
+812,Thursday,3:27:00 PM,15,100,40,35,25,1,Customer Care,3,28,3.00,2.66,1.40
+813,Thursday,3:55:00 PM,15,87,38,23,26,0,PC Phone Support,3,28,2.35,2.66,0.88
+814,Thursday,4:22:00 PM,16,75,27,32,16,0,Customer Care/PC Phone Support,3,28,3.69,2.66,2.00
+815,Thursday,4:44:00 PM,16,66,17,32,17,0,PC Phone Support,3,28,2.88,2.66,1.88
+816,Friday,8:37:00 AM,8,89,30,48,11,1,Customer Care,3,29,7.09,2.67,4.36
+817,Friday,9:18:00 AM,9,96,35,9,52,4,Customer Care,3,29,0.85,2.66,0.17
+818,Friday,9:41:00 AM,9,100,36,33,31,3,Customer Care,3,29,2.23,2.66,1.06
+819,Friday,11:41:00 AM,11,101,28,37,36,0,Customer Care/PC Phone Support,3,29,1.81,2.66,1.03
+820,Friday,12:15:00 PM,12,96,34,19,43,4,Customer Care,3,29,1.23,2.66,0.44
+821,Friday,12:29:00 PM,12,92,41,11,40,0,Customer Care,3,29,1.30,2.66,0.28
+822,Friday,12:57:00 PM,12,96,44,21,31,2,Customer Care,3,29,2.10,2.66,0.68
+823,Friday,1:29:00 PM,13,95,43,21,31,5,PC Phone Support,3,29,2.06,2.66,0.68
+824,Friday,1:53:00 PM,13,95,36,29,30,5,PC Phone Support,3,29,2.17,2.66,0.97
+825,Friday,2:41:00 PM,14,82,30,27,25,10,Customer Care,3,29,2.28,2.66,1.08
+826,Friday,3:22:00 PM,15,75,38,6,31,10,PC Phone Support,3,29,1.42,2.66,0.19
+827,Friday,4:00:00 PM,16,66,36,6,24,5,PC Phone Support,3,29,1.75,2.65,0.25
+828,Monday,8:11:00 AM,8,87,36,21,30,2,Customer Care,4,1,1.90,2.65,0.70
+829,Monday,8:49:00 AM,8,93,47,32,14,1,Customer Care/PC Phone Support,4,1,5.64,2.66,2.29
+830,Monday,9:02:00 AM,9,92,43,29,20,1,Customer Care,4,1,3.60,2.66,1.45
+831,Monday,9:19:00 AM,9,93,63,13,17,15,Customer Care,4,1,4.47,2.66,0.76
+832,Monday,9:47:00 AM,9,96,51,32,13,0,Customer Care,4,1,6.38,2.67,2.46
+833,Monday,10:19:00 AM,10,97,43,23,31,1,Customer Care,4,1,2.13,2.66,0.74
+834,Monday,10:35:00 AM,10,121,67,24,30,7,Customer Care,4,1,3.03,2.67,0.80
+835,Monday,11:03:00 AM,11,133,54,36,43,6,Customer Care,4,1,2.09,2.66,0.84
+836,Monday,11:46:00 AM,11,121,45,36,40,3,Customer Care,4,1,2.03,2.66,0.90
+837,Monday,12:00:00 PM,12,121,53,25,43,3,Customer Care,4,1,1.81,2.66,0.58
+838,Monday,12:24:00 PM,12,120,51,19,50,19,Customer Care,4,1,1.40,2.66,0.38
+839,Monday,12:50:00 PM,12,118,63,12,43,7,Customer Care,4,1,1.74,2.66,0.28
+840,Monday,12:59:00 PM,12,118,59,22,37,0,Customer Care,4,1,2.19,2.66,0.59
+841,Monday,1:21:00 PM,13,119,46,33,40,0,Customer Care,4,1,1.98,2.66,0.83
+842,Monday,2:17:00 PM,14,113,33,49,31,0,PC Phone Support,4,1,2.65,2.66,1.58
+843,Monday,2:34:00 PM,14,111,54,33,24,0,Customer Care,4,1,3.63,2.66,1.38
+844,Monday,3:07:00 PM,15,102,44,18,40,2,Customer Care,4,1,1.55,2.66,0.45
+845,Monday,3:37:00 PM,15,94,30,42,22,0,PC Phone Support,4,1,3.27,2.66,1.91
+846,Monday,4:07:00 PM,16,78,43,10,25,2,Customer Care,4,1,2.12,2.66,0.40
+847,Monday,4:31:00 PM,16,70,32,19,19,0,Customer Care,4,1,2.68,2.66,1.00
+848,Tuesday,8:19:00 AM,8,110,56,43,11,0,PC Phone Support,4,2,9.00,2.67,3.91
+849,Tuesday,8:40:00 AM,8,121,39,60,22,0,Customer Care,4,2,4.50,2.67,2.73
+850,Tuesday,8:59:00 AM,8,124,45,51,28,0,Customer Care,4,2,3.43,2.67,1.82
+851,Tuesday,9:34:00 AM,9,137,51,68,18,0,PC Phone Support,4,2,6.61,2.67,3.78
+852,Tuesday,10:28:00 AM,10,139,55,47,37,7,Customer Care,4,2,2.76,2.67,1.27
+853,Tuesday,11:25:00 AM,11,141,61,46,34,0,Customer Care,4,2,3.15,2.67,1.35
+854,Tuesday,11:44:00 AM,11,145,45,62,38,0,PC Phone Support,4,2,2.82,2.67,1.63
+855,Tuesday,12:01:00 PM,12,147,49,49,49,0,Customer Care,4,2,2.00,2.67,1.00
+856,Tuesday,12:41:00 PM,12,146,53,49,44,0,Customer Care,4,2,2.32,2.67,1.11
+857,Tuesday,1:07:00 PM,13,140,52,45,43,0,Customer Care,4,2,2.26,2.67,1.05
+858,Tuesday,3:01:00 PM,15,135,15,32,88,20,New Sales,4,2,0.53,2.67,0.36
+859,Tuesday,3:43:00 PM,15,117,45,37,35,0,Customer Care,4,2,2.34,2.67,1.06
+860,Tuesday,4:03:00 PM,16,96,33,36,27,0,Customer Care,4,2,2.56,2.67,1.33
+861,Tuesday,4:28:00 PM,16,85,29,39,17,0,PC Phone Support,4,2,4.00,2.67,2.29
+862,Wednesday,8:02:00 AM,8,96,27,57,12,0,Customer Care,4,3,7.00,2.68,4.75
+863,Wednesday,8:27:00 AM,8,119,38,67,14,0,Customer Care,4,3,7.50,2.68,4.79
+864,Wednesday,8:44:00 AM,8,129,46,66,17,0,Customer Care,4,3,6.59,2.69,3.88
+865,Wednesday,9:29:00 AM,9,143,46,58,39,1,Customer Care,4,3,2.67,2.69,1.49
+866,Wednesday,10:14:00 AM,10,144,54,46,44,0,Customer Care,4,3,2.27,2.69,1.05
+867,Wednesday,10:42:00 AM,10,145,42,63,40,0,Customer Care,4,3,2.63,2.69,1.58
+868,Wednesday,11:00:00 AM,11,149,61,50,38,1,Customer Care,4,3,2.92,2.69,1.32
+869,Wednesday,11:28:00 AM,11,150,40,81,29,0,PC Phone Support,4,3,4.17,2.69,2.79
+870,Wednesday,11:56:00 AM,11,154,52,72,30,0,PC Phone Support,4,3,4.13,2.69,2.40
+871,Wednesday,12:08:00 PM,12,156,57,42,57,0,Customer Care,4,3,1.74,2.69,0.74
+872,Wednesday,12:30:00 PM,12,157,69,26,62,0,Customer Care,4,3,1.53,2.69,0.42
+873,Wednesday,12:56:00 PM,12,155,40,58,57,0,PC Phone Support,4,3,1.72,2.69,1.02
+874,Wednesday,1:09:00 PM,13,146,47,48,51,0,Customer Care,4,3,1.86,2.69,0.94
+875,Wednesday,1:35:00 PM,13,144,50,51,43,0,Customer Care,4,3,2.35,2.68,1.19
+876,Wednesday,1:53:00 PM,13,142,48,52,42,0,Customer Care,4,3,2.38,2.68,1.24
+877,Wednesday,2:17:00 PM,14,131,49,44,38,0,Customer Care,4,3,2.45,2.68,1.16
+878,Wednesday,2:33:00 PM,14,135,61,35,39,0,Customer Care,4,3,2.46,2.68,0.90
+879,Wednesday,3:00:00 PM,15,129,54,30,45,1,PC Phone Support,4,3,1.87,2.68,0.67
+880,Wednesday,3:31:00 PM,15,109,39,31,39,0,Customer Care,4,3,1.79,2.68,0.79
+881,Wednesday,4:08:00 PM,16,92,44,18,30,0,Customer Care,4,3,2.07,2.68,0.60
+882,Wednesday,4:14:00 PM,16,89,34,28,27,2,Customer Care,4,3,2.30,2.68,1.04
+883,Thursday,8:54:00 AM,8,109,32,50,27,0,Customer Care,4,11,3.04,2.68,1.85
+884,Thursday,9:32:00 AM,9,126,32,69,25,0,Customer Care,4,11,4.04,2.68,2.76
+885,Thursday,9:59:00 AM,9,134,51,53,30,0,Customer Care,4,11,3.47,2.68,1.77
+886,Thursday,10:46:00 AM,10,135,55,29,51,0,Customer Care,4,11,1.65,2.68,0.57
+887,Thursday,11:09:00 AM,11,135,44,56,35,0,Customer Care,4,11,2.86,2.68,1.60
+888,Thursday,12:59:00 PM,12,135,38,48,49,0,Customer Care,4,11,1.76,2.68,0.98
+889,Thursday,1:44:00 PM,13,132,48,46,38,2,Customer Care,4,11,2.47,2.68,1.21
+890,Thursday,2:00:00 PM,14,131,35,46,50,0,Customer Care/PC Phone Support,4,11,1.62,2.68,0.92
+891,Thursday,2:22:00 PM,14,121,45,50,26,0,Customer Care,4,11,3.65,2.68,1.92
+892,Thursday,2:59:00 PM,14,112,16,44,52,5,Customer Care,4,11,1.15,2.68,0.85
+893,Thursday,3:24:00 PM,15,102,27,52,23,0,PC Phone Support,4,11,3.43,2.68,2.26
+894,Thursday,3:50:00 PM,15,100,52,19,29,0,Customer Care,4,11,2.45,2.68,0.66
+895,Thursday,4:27:00 PM,16,81,26,35,20,0,New Sales,4,11,3.05,2.68,1.75
+896,Thursday,4:39:00 PM,16,74,23,38,13,0,New Sales,4,11,4.69,2.68,2.92
+897,Thursday,4:50:00 PM,16,76,28,33,15,0,Customer Care,4,11,4.07,2.68,2.20
+898,Thursday,4:55:00 PM,16,75,18,38,19,0,Customer Care,4,11,2.95,2.68,2.00
+899,Friday,8:02:00 AM,8,91,23,54,14,0,Customer Care,4,12,5.50,2.69,3.86
+900,Friday,8:38:00 AM,8,108,29,67,12,0,Customer Care,4,12,8.00,2.69,5.58
+901,Friday,9:15:00 AM,9,117,45,42,30,0,Customer Care/PC Phone Support,4,12,2.90,2.69,1.40
+902,Friday,9:38:00 AM,9,127,36,66,25,0,Customer Care,4,12,4.08,2.70,2.64
+903,Friday,9:51:00 AM,9,128,45,59,24,0,Customer Care,4,12,4.33,2.70,2.46
+904,Friday,10:32:00 AM,10,127,35,66,26,0,Customer Care,4,12,3.88,2.70,2.54
+905,Friday,10:48:00 AM,10,129,37,60,32,0,Customer Care,4,12,3.03,2.70,1.88
+906,Friday,11:00:00 AM,11,131,49,56,26,0,Customer Care,4,12,4.04,2.70,2.15
+907,Friday,11:23:00 AM,11,133,57,40,36,0,Customer Care,4,12,2.69,2.70,1.11
+908,Friday,12:38:00 PM,12,135,45,44,46,1,Customer Care,4,12,1.93,2.70,0.96
+909,Friday,1:23:00 PM,13,129,40,54,35,0,Customer Care,4,12,2.69,2.70,1.54
+910,Friday,2:04:00 PM,14,119,48,45,26,0,PC Phone Support,4,12,3.58,2.70,1.73
+911,Friday,2:40:00 PM,14,114,33,33,48,0,Customer Care,4,12,1.38,2.70,0.69
+912,Friday,3:16:00 PM,15,94,21,37,36,0,Customer Care/PC Phone Support,4,12,1.61,2.70,1.03
+913,Friday,3:35:00 PM,15,83,29,25,29,0,Customer Care/PC Phone Support,4,12,1.86,2.70,0.86
+914,Friday,4:01:00 PM,16,75,31,20,24,0,Customer Care,4,12,2.13,2.70,0.83
+915,Friday,4:10:00 PM,16,70,23,26,21,0,Customer Care,4,12,2.33,2.70,1.24
+916,Friday,4:36:00 PM,16,59,17,30,12,0,PC Phone Support,4,12,3.92,2.70,2.50
+917,Monday,8:08:00 AM,8,91,27,38,26,1,Customer Care,4,15,2.50,2.70,1.46
+918,Monday,8:37:00 AM,8,104,51,33,20,2,Customer Care,4,15,4.20,2.70,1.65
+919,Monday,8:55:00 AM,8,106,42,47,17,1,Customer Care,4,15,5.24,2.70,2.76
+920,Monday,10:02:00 AM,10,122,59,35,28,0,Customer Care,4,15,3.36,2.70,1.25
+921,Monday,10:22:00 AM,10,121,58,36,27,0,Customer Care,4,15,3.48,2.70,1.33
+922,Monday,10:54:00 AM,10,122,45,50,27,0,Customer Care,4,15,3.52,2.70,1.85
+923,Monday,11:13:00 AM,11,124,48,54,22,0,Customer Care,4,15,4.64,2.71,2.45
+924,Monday,11:49:00 AM,11,123,56,34,33,1,Customer Care,4,15,2.73,2.71,1.03
+925,Monday,1:01:00 PM,13,124,36,45,43,0,Customer Care,4,15,1.88,2.71,1.05
+926,Monday,1:35:00 PM,13,123,32,62,29,0,Customer Care,4,15,3.24,2.71,2.14
+927,Monday,2:00:00 PM,14,109,33,43,33,0,Customer Care,4,15,2.30,2.71,1.30
+928,Monday,3:44:00 PM,15,96,46,27,23,1,Customer Care,4,15,3.17,2.71,1.17
+929,Monday,4:21:00 PM,16,75,37,23,15,0,PC Phone Support,4,15,4.00,2.71,1.53
+930,Monday,4:42:00 PM,16,68,28,32,8,0,Customer Care,4,15,7.50,2.71,4.00
+931,Tuesday,8:20:00 AM,8,95,38,21,36,5,Customer Care,4,16,1.64,2.71,0.58
+932,Tuesday,9:06:00 AM,9,113,37,37,39,8,Customer Care,4,16,1.90,2.71,0.95
+933,Tuesday,9:53:00 AM,9,128,48,62,18,0,Customer Care,4,16,6.11,2.71,3.44
+934,Tuesday,10:06:00 AM,10,125,48,34,43,0,Customer Care,4,16,1.91,2.71,0.79
+935,Tuesday,10:58:00 AM,10,130,50,45,35,0,Customer Care,4,16,2.71,2.71,1.29
+936,Tuesday,11:17:00 AM,11,131,34,71,26,0,Customer Care,4,16,4.04,2.71,2.73
+937,Tuesday,12:59:00 PM,12,138,26,67,45,0,New Sales,4,16,2.07,2.71,1.49
+938,Tuesday,1:18:00 PM,13,138,34,70,34,0,Customer Care,4,16,3.06,2.71,2.06
+939,Tuesday,1:41:00 PM,13,137,38,66,33,0,Customer Care,4,16,3.15,2.71,2.00
+940,Tuesday,2:52:00 PM,14,138,23,39,76,5,PC Phone Support,4,16,0.82,2.71,0.51
+941,Tuesday,3:06:00 PM,15,124,42,29,53,0,Customer Care,4,16,1.34,2.71,0.55
+942,Tuesday,4:01:00 PM,16,98,37,31,30,0,Customer Care/PC Phone Support/New Sales,4,16,2.27,2.71,1.03
+943,Wednesday,8:24:00 AM,8,99,20,65,14,0,PC Phone Support,4,17,6.07,2.71,4.64
+944,Wednesday,8:47:00 AM,8,116,36,70,10,0,Customer Care,4,17,10.60,2.72,7.00
+945,Wednesday,9:25:00 AM,9,119,38,60,21,0,Customer Care,4,17,4.67,2.72,2.86
+946,Wednesday,9:48:00 AM,9,126,69,42,15,0,Customer Care,4,17,7.40,2.73,2.80
+947,Wednesday,10:38:00 AM,10,134,37,60,37,0,Customer Care,4,17,2.62,2.73,1.62
+948,Wednesday,11:53:00 AM,11,136,40,65,31,0,Customer Care,4,17,3.39,2.73,2.10
+949,Wednesday,12:02:00 PM,12,136,41,57,38,0,PC Phone Support,4,17,2.58,2.73,1.50
+950,Wednesday,12:46:00 PM,12,138,47,51,40,0,Customer Care,4,17,2.45,2.73,1.28
+951,Wednesday,1:01:00 PM,13,134,35,49,50,0,Customer Care,4,17,1.68,2.73,0.98
+952,Wednesday,1:49:00 PM,13,124,51,34,39,0,Customer Care,4,17,2.18,2.73,0.87
+953,Wednesday,2:21:00 PM,14,121,30,57,34,0,Customer Care,4,17,2.56,2.73,1.68
+954,Wednesday,3:00:00 PM,15,114,27,46,41,0,Customer Care/PC Phone Support,4,17,1.78,2.73,1.12
+955,Wednesday,3:16:00 PM,15,101,29,31,41,0,Customer Care,4,17,1.46,2.73,0.76
+956,Wednesday,4:26:00 PM,16,79,19,36,24,0,New Sales,4,17,2.29,2.73,1.50
+957,Thursday,8:00:00 AM,8,89,35,34,20,0,PC Phone Support,4,18,3.45,2.73,1.70
+958,Thursday,8:44:00 AM,8,119,41,67,11,0,Customer Care,4,18,9.82,2.73,6.09
+959,Thursday,9:31:00 AM,9,127,58,37,32,1,Customer Care,4,18,2.97,2.73,1.16
+960,Thursday,10:08:00 AM,10,134,21,64,49,0,PC Phone Support,4,18,1.73,2.73,1.31
+961,Thursday,11:04:00 AM,11,136,43,41,52,0,Customer Care,4,18,1.62,2.73,0.79
+962,Thursday,11:25:00 AM,11,139,36,65,38,0,Customer Care,4,18,2.66,2.73,1.71
+963,Thursday,11:58:00 AM,11,133,37,36,60,1,Customer Care,4,18,1.22,2.73,0.60
+964,Thursday,1:17:00 PM,13,126,41,45,40,0,Customer Care,4,18,2.15,2.73,1.13
+965,Thursday,2:22:00 PM,14,115,42,47,26,0,Customer Care,4,18,3.42,2.73,1.81
+966,Thursday,2:42:00 PM,14,115,32,39,44,4,Customer Care,4,18,1.61,2.73,0.89
+967,Thursday,4:44:00 PM,16,73,27,30,16,0,PC Phone Support,4,18,3.56,2.73,1.88
+968,Friday,8:01:00 AM,8,89,26,52,11,0,Customer Care,4,19,7.09,2.73,4.73
+969,Friday,8:31:00 AM,8,105,21,59,25,0,PC Phone Support,4,19,3.20,2.73,2.36
+970,Friday,9:50:00 AM,9,126,41,61,24,0,Customer Care,4,19,4.25,2.74,2.54
+971,Friday,10:02:00 AM,10,125,37,53,35,0,Customer Care,4,19,2.57,2.74,1.51
+972,Friday,10:59:00 AM,10,127,57,33,37,0,PC Phone Support,4,19,2.43,2.74,0.89
+973,Friday,11:26:00 AM,11,126,51,42,33,0,Customer Care,4,19,2.82,2.74,1.27
+974,Friday,12:03:00 PM,12,131,43,39,49,0,Customer Care,4,19,1.67,2.73,0.80
+975,Friday,12:31:00 PM,12,119,26,50,43,0,Customer Care,4,19,1.77,2.73,1.16
+976,Friday,1:53:00 PM,13,114,41,35,38,0,Customer Care,4,19,2.00,2.73,0.92
+977,Friday,2:12:00 PM,14,111,32,48,31,0,Customer Care,4,19,2.58,2.73,1.55
+978,Friday,2:48:00 PM,14,108,39,36,33,1,Customer Care,4,19,2.27,2.73,1.09
+979,Friday,3:04:00 PM,15,93,30,38,25,0,Customer Care,4,19,2.72,2.73,1.52
+980,Friday,3:22:00 PM,15,87,44,26,17,0,Customer Care/PC Phone Support,4,19,4.12,2.73,1.53
+981,Friday,3:29:00 PM,15,86,24,41,21,0,Customer Care,4,19,3.10,2.73,1.95
+982,Monday,8:00:00 AM,8,89,38,29,22,0,Customer Care,4,22,3.05,2.73,1.32
+983,Monday,9:00:00 AM,9,109,60,32,17,1,Customer Care,4,22,5.41,2.74,1.88
+984,Monday,10:20:00 AM,10,124,41,42,41,0,Customer Care,4,22,2.02,2.74,1.02
+985,Monday,11:23:00 AM,11,119,58,33,28,0,Customer Care,4,22,3.25,2.74,1.18
+986,Monday,1:01:00 PM,13,121,34,37,50,0,Customer Care,4,22,1.42,2.74,0.74
+987,Monday,1:47:00 PM,13,119,48,46,25,0,Customer Care,4,22,3.76,2.74,1.84
+988,Monday,2:00:00 PM,14,113,46,33,34,0,Customer Care,4,22,2.32,2.74,0.97
+989,Monday,2:59:00 PM,14,105,44,37,24,0,PC Phone Support,4,22,3.38,2.74,1.54
+990,Monday,4:44:00 PM,16,70,23,36,11,0,PC Phone Support/New Sales,4,22,5.36,2.74,3.27
+991,Monday,4:52:00 PM,16,69,33,24,12,0,Customer Care,4,22,4.75,2.74,2.00
+992,Tuesday,8:06:00 AM,8,101,22,63,16,0,PC Phone Support,4,23,5.31,2.74,3.94
+993,Tuesday,9:30:00 AM,9,134,73,49,12,0,Customer Care,4,23,10.17,2.75,4.08
+994,Tuesday,10:07:00 AM,10,134,47,43,44,0,Customer Care,4,23,2.05,2.75,0.98
+995,Tuesday,11:02:00 AM,11,136,47,53,36,0,Customer Care,4,23,2.78,2.75,1.47
+996,Tuesday,11:37:00 AM,11,137,44,57,36,0,Customer Care,4,23,2.81,2.75,1.58
+997,Tuesday,12:00:00 PM,12,139,33,59,47,0,Customer Care,4,23,1.96,2.75,1.26
+998,Tuesday,12:32:00 PM,12,135,40,50,45,0,Customer Care,4,23,2.00,2.75,1.11
+999,Tuesday,1:05:00 PM,13,133,39,48,46,4,Customer Care,4,23,1.89,2.75,1.04
+1000,Tuesday,1:55:00 PM,13,137,44,53,40,0,Customer Care,4,23,2.43,2.75,1.33
+1001,Tuesday,2:05:00 PM,14,131,41,46,44,0,Customer Care,4,23,1.98,2.75,1.05
+1002,Tuesday,2:29:00 PM,14,136,45,46,45,0,Customer Care,4,23,2.02,2.75,1.02
+1003,Tuesday,2:49:00 PM,14,132,28,37,67,16,Customer Care/PC Phone Support,4,23,0.97,2.74,0.55
+1004,Tuesday,3:00:00 PM,15,132,36,46,50,0,Customer Care,4,23,1.64,2.74,0.92
+1005,Tuesday,3:25:00 PM,15,115,54,34,27,0,Customer Care,4,23,3.26,2.74,1.26
+1006,Tuesday,3:56:00 PM,15,112,31,52,29,3,PC Phone Support,4,23,2.86,2.74,1.79
+1007,Tuesday,4:03:00 PM,16,100,23,51,26,0,PC Phone Support,4,23,2.85,2.74,1.96
+1008,Tuesday,4:16:00 PM,16,89,18,48,23,0,Customer Care/PC Phone Support,4,23,2.87,2.74,2.09
+1009,Wednesday,8:04:00 AM,8,100,40,49,11,0,Customer Care,4,24,8.09,2.75,4.45
+1010,Wednesday,8:55:00 AM,8,115,36,65,14,0,Customer Care/PC Phone Support,4,24,7.21,2.75,4.64
+1011,Wednesday,9:06:00 AM,9,114,31,66,17,0,Customer Care,4,24,5.71,2.76,3.88
+1012,Wednesday,10:11:00 AM,10,137,38,67,32,0,Customer Care,4,24,3.28,2.76,2.09
+1013,Wednesday,11:14:00 AM,11,137,30,80,27,0,Customer Care,4,24,4.07,2.76,2.96
+1014,Wednesday,11:48:00 AM,11,135,40,72,23,0,Customer Care,4,24,4.87,2.76,3.13
+1015,Wednesday,12:02:00 PM,12,135,47,47,41,1,Customer Care,4,24,2.29,2.76,1.15
+1016,Wednesday,12:42:00 PM,12,140,47,51,42,0,Customer Care,4,24,2.33,2.76,1.21
+1017,Wednesday,1:33:00 PM,13,131,30,69,32,0,Customer Care,4,24,3.09,2.76,2.16
+1018,Wednesday,1:59:00 PM,13,131,47,40,44,0,Customer Care,4,24,1.98,2.76,0.91
+1019,Wednesday,2:07:00 PM,14,122,29,45,48,0,Customer Care,4,24,1.54,2.76,0.94
+1020,Wednesday,2:49:00 PM,14,125,39,41,45,1,Customer Care/PC Phone Support,4,24,1.78,2.76,0.91
+1021,Wednesday,3:03:00 PM,15,121,30,35,56,0,Customer Care/PC Phone Support,4,24,1.16,2.76,0.63
+1022,Wednesday,3:21:00 PM,15,116,44,33,39,0,Customer Care,4,24,1.97,2.76,0.85
+1023,Wednesday,3:55:00 PM,15,109,37,48,24,0,PC Phone Support/New Sales,4,24,3.54,2.76,2.00
+1024,Wednesday,4:12:00 PM,16,90,18,51,21,0,Customer Care,4,24,3.29,2.76,2.43
+1025,Thursday,8:14:00 AM,8,100,35,52,13,0,Customer Care,4,25,6.69,2.76,4.00
+1026,Thursday,10:55:00 AM,10,130,48,46,36,0,Customer Care,4,25,2.61,2.76,1.28
+1027,Thursday,11:46:00 AM,11,130,53,50,27,0,Customer Care,4,25,3.81,2.76,1.85
+1028,Thursday,12:55:00 PM,12,129,27,42,60,1,Customer Care,4,25,1.15,2.76,0.70
+1029,Thursday,1:13:00 PM,13,131,26,30,75,0,Customer Care,4,25,0.75,2.76,0.40
+1030,Thursday,2:24:00 PM,14,119,38,40,41,0,PC Phone Support,4,25,1.90,2.76,0.98
+1031,Thursday,2:48:00 PM,14,115,18,37,60,3,Customer Care,4,25,0.92,2.76,0.62
+1032,Friday,8:35:00 AM,8,108,37,56,15,0,Customer Care,4,26,6.20,2.76,3.73
+1033,Friday,10:00:00 AM,10,127,46,47,34,0,Customer Care,4,26,2.74,2.76,1.38
+1034,Friday,10:46:00 AM,10,126,38,47,41,0,Customer Care,4,26,2.07,2.76,1.15
+1035,Friday,11:04:00 AM,11,126,21,69,36,0,PC Phone Support,4,26,2.50,2.76,1.92
+1036,Friday,12:42:00 PM,12,122,43,31,48,0,Customer Care/PC Phone Support,4,26,1.54,2.76,0.65
+1037,Friday,12:57:00 PM,12,121,43,33,45,0,Customer Care,4,26,1.69,2.76,0.73
+1038,Friday,1:18:00 PM,13,118,40,38,40,0,Customer Care,4,26,1.95,2.75,0.95
+1039,Friday,2:03:00 PM,14,102,44,25,33,2,Customer Care,4,26,2.09,2.75,0.76
+1040,Friday,2:19:00 PM,14,102,40,41,21,5,Customer Care,4,26,3.86,2.76,1.95
+1041,Friday,2:50:00 PM,14,100,29,35,36,0,Customer Care,4,26,1.78,2.75,0.97
+1042,Friday,3:01:00 PM,15,90,20,33,37,0,Customer Care,4,26,1.43,2.75,0.89
+1043,Friday,3:22:00 PM,15,84,24,32,28,0,Customer Care,4,26,2.00,2.75,1.14
+1044,Friday,3:54:00 PM,15,75,32,21,22,2,Customer Care,4,26,2.41,2.75,0.95
+1045,Monday,8:16:00 AM,8,101,41,38,22,0,Customer Care,4,29,3.59,2.75,1.73
+1046,Monday,8:51:00 AM,8,108,40,55,13,0,Customer Care,4,29,7.31,2.76,4.23
+1047,Monday,9:28:00 AM,9,115,66,20,29,10,Customer Care,4,29,2.97,2.76,0.69
+1048,Monday,9:57:00 AM,9,119,33,55,31,0,Customer Care,4,29,2.84,2.76,1.77
+1049,Monday,10:21:00 AM,10,121,44,48,29,0,Customer Care,4,29,3.17,2.76,1.66
+1050,Monday,10:59:00 AM,10,123,40,50,33,0,PC Phone Support,4,29,2.73,2.76,1.52
+1051,Monday,11:19:00 AM,11,125,36,60,29,0,Customer Care,4,29,3.31,2.76,2.07
+1052,Monday,12:08:00 PM,12,126,34,52,40,0,Customer Care,4,29,2.15,2.76,1.30
+1053,Monday,12:38:00 PM,12,124,45,39,40,0,Customer Care,4,29,2.10,2.76,0.98
+1054,Monday,1:00:00 PM,13,128,43,39,46,0,Customer Care,4,29,1.78,2.76,0.85
+1055,Monday,2:06:00 PM,14,117,39,47,31,0,Customer Care,4,29,2.77,2.76,1.52
+1056,Monday,2:34:00 PM,14,115,35,53,27,0,Customer Care,4,29,3.26,2.76,1.96
+1057,Monday,2:49:00 PM,14,114,52,33,29,0,Customer Care,4,29,2.93,2.76,1.14
+1058,Monday,3:39:00 PM,15,101,32,47,22,0,Customer Care,4,29,3.59,2.76,2.14
+1059,Monday,3:59:00 PM,15,94,22,44,28,0,Customer Care/PC Phone Support,4,29,2.36,2.76,1.57
+1060,Monday,4:09:00 PM,16,81,21,37,23,0,Customer Care,4,29,2.52,2.76,1.61
+1061,Tuesday,8:18:00 AM,8,107,49,26,32,0,Customer Care,4,30,2.34,2.76,0.81
+1062,Tuesday,8:45:00 AM,8,119,35,46,38,6,Customer Care,4,30,2.13,2.76,1.21
+1063,Tuesday,9:12:00 AM,9,133,59,36,38,6,Customer Care,4,30,2.50,2.76,0.95
+1064,Tuesday,10:58:00 AM,10,145,64,27,54,6,PC Phone Support,4,30,1.69,2.75,0.50
+1065,Tuesday,11:20:00 AM,11,142,47,38,57,17,Customer Care,4,30,1.49,2.75,0.67
+1066,Tuesday,12:01:00 PM,12,147,37,50,60,6,Customer Care,4,30,1.45,2.75,0.83
+1067,Tuesday,12:30:00 PM,12,149,50,31,68,30,Customer Care,4,30,1.19,2.75,0.46
+1068,Tuesday,12:58:00 PM,12,151,46,41,64,14,Customer Care,4,30,1.36,2.75,0.64
+1069,Tuesday,1:30:00 PM,13,142,50,25,67,9,Customer Care,4,30,1.12,2.75,0.37
+1070,Tuesday,2:58:00 PM,14,132,22,31,79,19,PC Phone Support,4,30,0.67,2.75,0.39
+1071,Tuesday,3:08:00 PM,15,121,23,24,74,15,PC Phone Support,4,30,0.64,2.74,0.32
+1072,Tuesday,3:35:00 PM,15,110,45,23,42,7,New Sales,4,30,1.62,2.74,0.55
+1073,Wednesday,8:01:00 AM,8,79,44,16,19,1,Customer Care,5,1,3.16,2.74,0.84
+1074,Wednesday,10:45:00 AM,10,99,48,21,30,4,Customer Care,5,1,2.30,2.74,0.70
+1075,Wednesday,11:57:00 AM,11,95,50,19,26,5,Customer Care,5,1,2.65,2.74,0.73
+1076,Wednesday,12:40:00 PM,12,95,31,21,43,0,Customer Care,5,1,1.21,2.74,0.49
+1077,Wednesday,1:06:00 PM,13,97,34,31,32,0,Customer Care/PC Phone Support,5,1,2.03,2.74,0.97
+1078,Wednesday,1:41:00 PM,13,95,40,28,27,1,Customer Care,5,1,2.52,2.74,1.04
+1079,Wednesday,2:09:00 PM,14,79,41,18,20,6,Customer Care/PC Phone Support,5,1,2.95,2.74,0.90
+1080,Wednesday,2:44:00 PM,14,79,32,25,22,15,Customer Care,5,1,2.59,2.74,1.14
+1081,Wednesday,3:34:00 PM,15,66,25,25,16,13,Customer Care,5,1,3.13,2.74,1.56
+1082,Thursday,10:50:00 AM,10,132,42,57,33,0,Customer Care,5,2,3.00,2.74,1.73
+1083,Thursday,12:23:00 PM,12,133,43,41,49,0,Customer Care,5,2,1.71,2.74,0.84
+1084,Thursday,12:58:00 PM,12,132,35,46,51,0,Customer Care,5,2,1.59,2.74,0.90
+1085,Thursday,1:28:00 PM,13,133,46,35,52,2,Customer Care,5,2,1.56,2.74,0.67
+1086,Thursday,2:50:00 PM,14,118,21,37,60,2,Customer Care,5,2,0.97,2.74,0.62
+1087,Thursday,3:09:00 PM,15,103,36,38,29,0,Customer Care,5,2,2.55,2.74,1.31
+1088,Thursday,4:03:00 PM,16,88,18,31,39,2,PC Phone Support,5,2,1.26,2.74,0.79
+1089,Thursday,4:42:00 PM,16,69,25,29,15,0,PC Phone Support,5,2,3.60,2.74,1.93
+1090,Friday,8:07:00 AM,8,81,28,32,21,0,Customer Care,5,3,2.86,2.74,1.52
+1091,Friday,8:39:00 AM,8,101,29,60,12,0,Customer Care,5,3,7.42,2.74,5.00
+1092,Friday,9:17:00 AM,9,108,39,41,28,0,Customer Care,5,3,2.86,2.74,1.46
+1093,Friday,9:58:00 AM,9,113,54,31,28,0,Customer Care,5,3,3.04,2.74,1.11
+1094,Friday,11:30:00 AM,11,125,35,63,27,0,Customer Care,5,3,3.63,2.74,2.33
+1095,Friday,12:03:00 PM,12,129,38,44,47,0,Customer Care,5,3,1.74,2.74,0.94
+1096,Friday,12:25:00 PM,12,124,31,50,43,0,Customer Care,5,3,1.88,2.74,1.16
+1097,Friday,1:06:00 PM,13,123,31,43,49,0,PC Phone Support,5,3,1.51,2.74,0.88
+1098,Friday,1:22:00 PM,13,122,39,52,31,0,Customer Care/PC Phone Support,5,3,2.94,2.74,1.68
+1099,Friday,1:53:00 PM,13,119,57,28,34,0,Customer Care,5,3,2.50,2.74,0.82
+1100,Friday,2:23:00 PM,14,114,35,43,36,0,PC Phone Support,5,3,2.17,2.74,1.19
+1101,Monday,8:12:00 AM,8,103,43,31,29,0,Customer Care,5,6,2.55,2.74,1.07
+1102,Monday,8:44:00 AM,8,112,45,50,17,0,Customer Care,5,6,5.59,2.74,2.94
+1103,Monday,9:29:00 AM,9,122,43,51,28,2,Customer Care/PC Phone Support,5,6,3.36,2.74,1.82
+1104,Monday,9:53:00 AM,9,120,41,45,34,0,Customer Care,5,6,2.53,2.74,1.32
+1105,Monday,10:04:00 AM,10,121,50,29,42,0,Customer Care,5,6,1.88,2.74,0.69
+1106,Monday,10:46:00 AM,10,122,53,44,25,0,Customer Care,5,6,3.88,2.74,1.76
+1107,Monday,11:23:00 AM,11,124,31,56,37,0,Customer Care,5,6,2.35,2.74,1.51
+1108,Monday,11:48:00 AM,11,126,36,55,35,0,Customer Care,5,6,2.60,2.74,1.57
+1109,Monday,12:35:00 PM,12,124,37,39,48,0,Customer Care,5,6,1.58,2.74,0.81
+1110,Monday,1:00:00 PM,13,127,38,34,55,0,Customer Care,5,6,1.31,2.74,0.62
+1111,Monday,1:54:00 PM,13,121,53,25,43,2,Customer Care,5,6,1.81,2.74,0.58
+1112,Monday,2:07:00 PM,14,115,55,27,33,1,Customer Care,5,6,2.48,2.74,0.82
+1113,Monday,2:23:00 PM,14,115,46,31,38,0,Customer Care,5,6,2.03,2.74,0.82
+1114,Monday,2:44:00 PM,14,111,46,30,35,0,PC Phone Support,5,6,2.17,2.74,0.86
+1115,Monday,3:00:00 PM,15,106,52,28,26,0,Customer Care,5,6,3.08,2.74,1.08
+1116,Monday,3:30:00 PM,15,95,29,45,21,0,PC Phone Support,5,6,3.52,2.74,2.14
+1117,Monday,4:05:00 PM,16,87,37,25,25,0,Customer Care/PC Phone Support,5,6,2.48,2.74,1.00
+1118,Tuesday,8:04:00 AM,8,104,29,56,19,0,Customer Care,5,7,4.47,2.74,2.95
+1119,Tuesday,9:02:00 AM,9,126,43,60,23,0,Customer Care,5,7,4.48,2.74,2.61
+1120,Tuesday,9:29:00 AM,9,139,48,60,31,0,Customer Care,5,7,3.48,2.74,1.94
+1121,Tuesday,10:09:00 AM,10,141,27,59,55,1,Customer Care,5,7,1.56,2.74,1.07
+1122,Tuesday,10:51:00 AM,10,140,40,66,34,0,Customer Care,5,7,3.12,2.74,1.94
+1123,Tuesday,11:44:00 AM,11,137,38,69,30,0,Customer Care/PC Phone Support,5,7,3.57,2.74,2.30
+1124,Tuesday,12:11:00 PM,12,139,47,49,43,0,Customer Care,5,7,2.23,2.74,1.14
+1125,Tuesday,12:39:00 PM,12,142,42,54,46,0,Customer Care,5,7,2.09,2.74,1.17
+1126,Tuesday,1:14:00 PM,13,127,43,44,40,0,Customer Care,5,7,2.18,2.74,1.10
+1127,Tuesday,1:38:00 PM,13,132,45,46,41,0,Customer Care,5,7,2.22,2.74,1.12
+1128,Tuesday,2:01:00 PM,14,135,31,60,44,0,Customer Care,5,7,2.07,2.74,1.36
+1129,Tuesday,2:31:00 PM,14,131,44,34,53,1,PC Phone Support,5,7,1.47,2.74,0.64
+1130,Tuesday,3:06:00 PM,15,119,28,27,64,6,Customer Care/PC Phone Support,5,7,0.86,2.74,0.42
+1131,Tuesday,3:29:00 PM,15,116,21,35,60,19,Customer Care,5,7,0.93,2.73,0.58
+1132,Tuesday,3:48:00 PM,15,106,33,42,31,1,Customer Care,5,7,2.42,2.73,1.35
+1133,Tuesday,4:37:00 PM,16,69,26,31,12,1,New Sales,5,7,4.75,2.74,2.58
+1134,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1135,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1136,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1137,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1138,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1139,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1140,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1141,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1142,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1143,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1144,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1145,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1146,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1147,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1148,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1149,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1150,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1151,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1152,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1153,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1154,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1155,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1156,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1157,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1158,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1159,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1160,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1161,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1162,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1163,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1164,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1165,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1166,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1167,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1168,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1169,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1170,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1171,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1172,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1173,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1174,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1175,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1176,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1177,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1178,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1179,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1180,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1181,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1182,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1183,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1184,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1185,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1186,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1187,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1188,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1189,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1190,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1191,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1192,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1193,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1194,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1195,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1196,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1197,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1198,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1199,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1200,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1201,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1202,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1203,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1204,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1205,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1206,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1207,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1208,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1209,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1210,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1211,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1212,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1213,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1214,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1215,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1216,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1217,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1218,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1219,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1220,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1221,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1222,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1223,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1224,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1225,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1226,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1227,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1228,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1229,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1230,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1231,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1232,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1233,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1234,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1235,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1236,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1237,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!
+1238,,,0,0,,,,,,,,#DIV/0!,#DIV/0!,#DIV/0!

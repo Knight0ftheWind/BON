@@ -4,3 +4,5 @@
 
 # It committed and pushed properly to my github repository.
 # Now I've made these edits in github and will see if R pulls them correctly.
+
+# Pull was successful. Final edit for confirmation.
